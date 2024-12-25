@@ -31,8 +31,8 @@ This tool is in BETA. Some profiles might experience scraping issues which will 
 
 1. Edit the `.env` file:
 ```
-  username: your_email
-  password: your_password
+  LINKEDIN_USERNAME: your_email
+  LINKEDIN_PASSWORD: your_password
   ```
 
 
