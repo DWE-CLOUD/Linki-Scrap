@@ -23,6 +23,12 @@ An advanced LinkedIn profile scraper that bypasses authentication walls and dete
 - Precise profile information extraction
 - Docker support for containerized execution
 
+## Setup for start [ Click on the pic below ]
+
+
+[![Video_Title](https://github.com/user-attachments/assets/f4371315-acb6-45aa-a576-25de4192c98c)](https://youtu.be/PmQJGmKDVtU)
+
+
 ## ⚠️ Disclaimer
 
 This tool is in BETA. Some profiles might experience scraping issues which will be addressed in future updates.
