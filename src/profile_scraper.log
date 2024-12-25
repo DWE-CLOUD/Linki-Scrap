@@ -1,0 +1,1579 @@
+2024-12-25 02:54:59,787 - INFO - Driver initialized successfully.
+2024-12-25 02:55:04,864 - INFO - Attempting to open profile URL: www.linkedin.com/in/ohri-akshit/
+2024-12-25 02:55:04,864 - INFO - Adding https:// scheme to: www.linkedin.com/in/ohri-akshit/
+2024-12-25 02:55:04,864 - INFO - Not a LinkedIn URL, navigating to: https://www.linkedin.com/in/ohri-akshit/
+2024-12-25 02:55:04,864 - INFO - Navigating to: https://www.linkedin.com/in/ohri-akshit/
+2024-12-25 02:55:11,659 - INFO - Navigated to https://www.linkedin.com/in/ohri-akshit/
+2024-12-25 02:55:37,003 - WARNING - Could not extract data from work experience element: Founder
+Founder
+Snugs Official � Self-employed
+Snugs Official � Self-employed
+Nov 2024 - Present � 2 mos
+Nov 2024 to Present � 2 mos
+India � Hybrid
+India � Hybrid
+Building Snugs, a dating app focused on genuine connections through warmth, playfulness, and inclusivity. Passionate about creating a community-first platform where people connect over shared values and real relationships.
+Start-up Leadership, Flutter and +7 skills because of Message: no such element: Unable to locate element: {"method":"css selector","selector":".profile-occupation__title"}
+  (Session info: chrome=131.0.6778.205); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7899BFB05+28789]
+	(No symbol) [0x00007FF7899286E0]
+	(No symbol) [0x00007FF7897C592A]
+	(No symbol) [0x00007FF78981930E]
+	(No symbol) [0x00007FF7898195FC]
+	(No symbol) [0x00007FF78980C6EC]
+	(No symbol) [0x00007FF78983F47F]
+	(No symbol) [0x00007FF78980C5B6]
+	(No symbol) [0x00007FF78983F650]
+	(No symbol) [0x00007FF78985F654]
+	(No symbol) [0x00007FF78983F1E3]
+	(No symbol) [0x00007FF78980A938]
+	(No symbol) [0x00007FF78980BAA1]
+	GetHandleVerifier [0x00007FF789CF933D+3410093]
+	GetHandleVerifier [0x00007FF789D0E7DD+3497293]
+	GetHandleVerifier [0x00007FF789D02A73+3448803]
+	GetHandleVerifier [0x00007FF789A87BBB+848171]
+	(No symbol) [0x00007FF789933C3F]
+	(No symbol) [0x00007FF78992F6E4]
+	(No symbol) [0x00007FF78992F87D]
+	(No symbol) [0x00007FF78991ED49]
+	BaseThreadInitThunk [0x00007FFFD93EE8D7+23]
+	RtlUserThreadStart [0x00007FFFDAA3FBCC+44]
+
+2024-12-25 02:55:49,555 - WARNING - Could not extract data from work experience element: Head of Web Development
+Head of Web Development
+IEEE Computer Society SRMIST � Part-time
+IEEE Computer Society SRMIST � Part-time
+Sep 2024 - Present � 4 mos
+Sep 2024 to Present � 4 mos
+India � Hybrid
+India � Hybrid
+Leading web development teams to deliver innovative, scalable, and high-performance web solutions.
+Leading web development teams to deliver innovative, scalable, and high-performance web solutions.
+WebDev, React.js and +2 skills because of Message: no such element: Unable to locate element: {"method":"css selector","selector":".profile-occupation__title"}
+  (Session info: chrome=131.0.6778.205); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7899BFB05+28789]
+	(No symbol) [0x00007FF7899286E0]
+	(No symbol) [0x00007FF7897C592A]
+	(No symbol) [0x00007FF78981930E]
+	(No symbol) [0x00007FF7898195FC]
+	(No symbol) [0x00007FF78980C6EC]
+	(No symbol) [0x00007FF78983F47F]
+	(No symbol) [0x00007FF78980C5B6]
+	(No symbol) [0x00007FF78983F650]
+	(No symbol) [0x00007FF78985F654]
+	(No symbol) [0x00007FF78983F1E3]
+	(No symbol) [0x00007FF78980A938]
+	(No symbol) [0x00007FF78980BAA1]
+	GetHandleVerifier [0x00007FF789CF933D+3410093]
+	GetHandleVerifier [0x00007FF789D0E7DD+3497293]
+	GetHandleVerifier [0x00007FF789D02A73+3448803]
+	GetHandleVerifier [0x00007FF789A87BBB+848171]
+	(No symbol) [0x00007FF789933C3F]
+	(No symbol) [0x00007FF78992F6E4]
+	(No symbol) [0x00007FF78992F87D]
+	(No symbol) [0x00007FF78991ED49]
+	BaseThreadInitThunk [0x00007FFFD93EE8D7+23]
+	RtlUserThreadStart [0x00007FFFDAA3FBCC+44]
+
+2024-12-25 02:56:02,137 - WARNING - Could not extract data from work experience element: Project Intern
+Project Intern
+SRM Technologies � Internship
+SRM Technologies � Internship
+May 2024 - Present � 8 mos
+May 2024 to Present � 8 mos
+Hybrid
+Hybrid because of Message: no such element: Unable to locate element: {"method":"css selector","selector":".profile-occupation__title"}
+  (Session info: chrome=131.0.6778.205); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7899BFB05+28789]
+	(No symbol) [0x00007FF7899286E0]
+	(No symbol) [0x00007FF7897C592A]
+	(No symbol) [0x00007FF78981930E]
+	(No symbol) [0x00007FF7898195FC]
+	(No symbol) [0x00007FF78980C6EC]
+	(No symbol) [0x00007FF78983F47F]
+	(No symbol) [0x00007FF78980C5B6]
+	(No symbol) [0x00007FF78983F650]
+	(No symbol) [0x00007FF78985F654]
+	(No symbol) [0x00007FF78983F1E3]
+	(No symbol) [0x00007FF78980A938]
+	(No symbol) [0x00007FF78980BAA1]
+	GetHandleVerifier [0x00007FF789CF933D+3410093]
+	GetHandleVerifier [0x00007FF789D0E7DD+3497293]
+	GetHandleVerifier [0x00007FF789D02A73+3448803]
+	GetHandleVerifier [0x00007FF789A87BBB+848171]
+	(No symbol) [0x00007FF789933C3F]
+	(No symbol) [0x00007FF78992F6E4]
+	(No symbol) [0x00007FF78992F87D]
+	(No symbol) [0x00007FF78991ED49]
+	BaseThreadInitThunk [0x00007FFFD93EE8D7+23]
+	RtlUserThreadStart [0x00007FFFDAA3FBCC+44]
+
+2024-12-25 02:56:14,680 - WARNING - Could not extract data from work experience element: Technical Team Member
+Technical Team Member
+Data Science Community SRM � Part-time
+Data Science Community SRM � Part-time
+Oct 2023 - Present � 1 yr 3 mos
+Oct 2023 to Present � 1 yr 3 mos
+India
+India because of Message: no such element: Unable to locate element: {"method":"css selector","selector":".profile-occupation__title"}
+  (Session info: chrome=131.0.6778.205); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7899BFB05+28789]
+	(No symbol) [0x00007FF7899286E0]
+	(No symbol) [0x00007FF7897C592A]
+	(No symbol) [0x00007FF78981930E]
+	(No symbol) [0x00007FF7898195FC]
+	(No symbol) [0x00007FF78980C6EC]
+	(No symbol) [0x00007FF78983F47F]
+	(No symbol) [0x00007FF78980C5B6]
+	(No symbol) [0x00007FF78983F650]
+	(No symbol) [0x00007FF78985F654]
+	(No symbol) [0x00007FF78983F1E3]
+	(No symbol) [0x00007FF78980A938]
+	(No symbol) [0x00007FF78980BAA1]
+	GetHandleVerifier [0x00007FF789CF933D+3410093]
+	GetHandleVerifier [0x00007FF789D0E7DD+3497293]
+	GetHandleVerifier [0x00007FF789D02A73+3448803]
+	GetHandleVerifier [0x00007FF789A87BBB+848171]
+	(No symbol) [0x00007FF789933C3F]
+	(No symbol) [0x00007FF78992F6E4]
+	(No symbol) [0x00007FF78992F87D]
+	(No symbol) [0x00007FF78991ED49]
+	BaseThreadInitThunk [0x00007FFFD93EE8D7+23]
+	RtlUserThreadStart [0x00007FFFDAA3FBCC+44]
+
+2024-12-25 02:56:27,277 - WARNING - Could not extract data from work experience element: Member
+Member
+Next Tech Lab
+Next Tech Lab
+Nov 2023 - May 2024 � 7 mos
+Nov 2023 to May 2024 � 7 mos
+Hybrid
+Hybrid
+Satoshi Lab
+Satoshi Lab because of Message: no such element: Unable to locate element: {"method":"css selector","selector":".profile-occupation__title"}
+  (Session info: chrome=131.0.6778.205); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7899BFB05+28789]
+	(No symbol) [0x00007FF7899286E0]
+	(No symbol) [0x00007FF7897C592A]
+	(No symbol) [0x00007FF78981930E]
+	(No symbol) [0x00007FF7898195FC]
+	(No symbol) [0x00007FF78980C6EC]
+	(No symbol) [0x00007FF78983F47F]
+	(No symbol) [0x00007FF78980C5B6]
+	(No symbol) [0x00007FF78983F650]
+	(No symbol) [0x00007FF78985F654]
+	(No symbol) [0x00007FF78983F1E3]
+	(No symbol) [0x00007FF78980A938]
+	(No symbol) [0x00007FF78980BAA1]
+	GetHandleVerifier [0x00007FF789CF933D+3410093]
+	GetHandleVerifier [0x00007FF789D0E7DD+3497293]
+	GetHandleVerifier [0x00007FF789D02A73+3448803]
+	GetHandleVerifier [0x00007FF789A87BBB+848171]
+	(No symbol) [0x00007FF789933C3F]
+	(No symbol) [0x00007FF78992F6E4]
+	(No symbol) [0x00007FF78992F87D]
+	(No symbol) [0x00007FF78991ED49]
+	BaseThreadInitThunk [0x00007FFFD93EE8D7+23]
+	RtlUserThreadStart [0x00007FFFDAA3FBCC+44]
+
+2024-12-25 02:56:39,926 - WARNING - Could not extract data from education element: SRMIST, Kattankulathur, Chennai ,Tamil Nadu
+SRMIST, Kattankulathur, Chennai ,Tamil Nadu
+2023 - 2027
+2023 - 2027
+Programming and Python (Programming Language) because of Message: no such element: Unable to locate element: {"method":"css selector","selector":".profile-education__school"}
+  (Session info: chrome=131.0.6778.205); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7899BFB05+28789]
+	(No symbol) [0x00007FF7899286E0]
+	(No symbol) [0x00007FF7897C592A]
+	(No symbol) [0x00007FF78981930E]
+	(No symbol) [0x00007FF7898195FC]
+	(No symbol) [0x00007FF78980C6EC]
+	(No symbol) [0x00007FF78983F47F]
+	(No symbol) [0x00007FF78980C5B6]
+	(No symbol) [0x00007FF78983F650]
+	(No symbol) [0x00007FF78985F654]
+	(No symbol) [0x00007FF78983F1E3]
+	(No symbol) [0x00007FF78980A938]
+	(No symbol) [0x00007FF78980BAA1]
+	GetHandleVerifier [0x00007FF789CF933D+3410093]
+	GetHandleVerifier [0x00007FF789D0E7DD+3497293]
+	GetHandleVerifier [0x00007FF789D02A73+3448803]
+	GetHandleVerifier [0x00007FF789A87BBB+848171]
+	(No symbol) [0x00007FF789933C3F]
+	(No symbol) [0x00007FF78992F6E4]
+	(No symbol) [0x00007FF78992F87D]
+	(No symbol) [0x00007FF78991ED49]
+	BaseThreadInitThunk [0x00007FFFD93EE8D7+23]
+	RtlUserThreadStart [0x00007FFFDAA3FBCC+44]
+
+2024-12-25 02:56:52,514 - WARNING - Could not extract data from education element: DAV International School, Kharghar logo
+DAV International School, Kharghar
+DAV International School, Kharghar
+High school, PCMCS
+High school, PCMCS
+2014 - 2023
+2014 - 2023 because of Message: no such element: Unable to locate element: {"method":"css selector","selector":".profile-education__school"}
+  (Session info: chrome=131.0.6778.205); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7899BFB05+28789]
+	(No symbol) [0x00007FF7899286E0]
+	(No symbol) [0x00007FF7897C592A]
+	(No symbol) [0x00007FF78981930E]
+	(No symbol) [0x00007FF7898195FC]
+	(No symbol) [0x00007FF78980C6EC]
+	(No symbol) [0x00007FF78983F47F]
+	(No symbol) [0x00007FF78980C5B6]
+	(No symbol) [0x00007FF78983F650]
+	(No symbol) [0x00007FF78985F654]
+	(No symbol) [0x00007FF78983F1E3]
+	(No symbol) [0x00007FF78980A938]
+	(No symbol) [0x00007FF78980BAA1]
+	GetHandleVerifier [0x00007FF789CF933D+3410093]
+	GetHandleVerifier [0x00007FF789D0E7DD+3497293]
+	GetHandleVerifier [0x00007FF789D02A73+3448803]
+	GetHandleVerifier [0x00007FF789A87BBB+848171]
+	(No symbol) [0x00007FF789933C3F]
+	(No symbol) [0x00007FF78992F6E4]
+	(No symbol) [0x00007FF78992F87D]
+	(No symbol) [0x00007FF78991ED49]
+	BaseThreadInitThunk [0x00007FFFD93EE8D7+23]
+	RtlUserThreadStart [0x00007FFFDAA3FBCC+44]
+
+2024-12-25 02:57:05,096 - INFO - Successfully scraped profile data
+2024-12-25 03:10:58,917 - INFO - Attempting to open profile URL: www.linkedin.com/in/ohri-akshit/
+2024-12-25 03:10:58,917 - INFO - Adding https:// scheme to: www.linkedin.com/in/ohri-akshit/
+2024-12-25 03:10:58,917 - INFO - Not a LinkedIn URL, navigating to: https://www.linkedin.com/in/ohri-akshit/
+2024-12-25 03:10:58,917 - INFO - Navigating to: https://www.linkedin.com/in/ohri-akshit/
+2024-12-25 03:11:09,528 - INFO - Navigated to https://www.linkedin.com/in/ohri-akshit/
+2024-12-25 03:11:32,280 - WARNING - Could not extract data from education element: SRMIST, Kattankulathur, Chennai ,Tamil Nadu
+SRMIST, Kattankulathur, Chennai ,Tamil Nadu
+2023 - 2027
+2023 - 2027
+Programming and Python (Programming Language) because of Message: no such element: Unable to locate element: {"method":"css selector","selector":".profile-education__school"}
+  (Session info: chrome=131.0.6778.205); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7899BFB05+28789]
+	(No symbol) [0x00007FF7899286E0]
+	(No symbol) [0x00007FF7897C592A]
+	(No symbol) [0x00007FF78981930E]
+	(No symbol) [0x00007FF7898195FC]
+	(No symbol) [0x00007FF78980C6EC]
+	(No symbol) [0x00007FF78983F47F]
+	(No symbol) [0x00007FF78980C5B6]
+	(No symbol) [0x00007FF78983F650]
+	(No symbol) [0x00007FF78985F654]
+	(No symbol) [0x00007FF78983F1E3]
+	(No symbol) [0x00007FF78980A938]
+	(No symbol) [0x00007FF78980BAA1]
+	GetHandleVerifier [0x00007FF789CF933D+3410093]
+	GetHandleVerifier [0x00007FF789D0E7DD+3497293]
+	GetHandleVerifier [0x00007FF789D02A73+3448803]
+	GetHandleVerifier [0x00007FF789A87BBB+848171]
+	(No symbol) [0x00007FF789933C3F]
+	(No symbol) [0x00007FF78992F6E4]
+	(No symbol) [0x00007FF78992F87D]
+	(No symbol) [0x00007FF78991ED49]
+	BaseThreadInitThunk [0x00007FFFD93EE8D7+23]
+	RtlUserThreadStart [0x00007FFFDAA3FBCC+44]
+
+2024-12-25 03:11:39,505 - WARNING - Could not extract data from education element: DAV International School, Kharghar logo
+DAV International School, Kharghar
+DAV International School, Kharghar
+High school, PCMCS
+High school, PCMCS
+2014 - 2023
+2014 - 2023 because of Message: no such element: Unable to locate element: {"method":"css selector","selector":".profile-education__school"}
+  (Session info: chrome=131.0.6778.205); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7899BFB05+28789]
+	(No symbol) [0x00007FF7899286E0]
+	(No symbol) [0x00007FF7897C592A]
+	(No symbol) [0x00007FF78981930E]
+	(No symbol) [0x00007FF7898195FC]
+	(No symbol) [0x00007FF78980C6EC]
+	(No symbol) [0x00007FF78983F47F]
+	(No symbol) [0x00007FF78980C5B6]
+	(No symbol) [0x00007FF78983F650]
+	(No symbol) [0x00007FF78985F654]
+	(No symbol) [0x00007FF78983F1E3]
+	(No symbol) [0x00007FF78980A938]
+	(No symbol) [0x00007FF78980BAA1]
+	GetHandleVerifier [0x00007FF789CF933D+3410093]
+	GetHandleVerifier [0x00007FF789D0E7DD+3497293]
+	GetHandleVerifier [0x00007FF789D02A73+3448803]
+	GetHandleVerifier [0x00007FF789A87BBB+848171]
+	(No symbol) [0x00007FF789933C3F]
+	(No symbol) [0x00007FF78992F6E4]
+	(No symbol) [0x00007FF78992F87D]
+	(No symbol) [0x00007FF78991ED49]
+	BaseThreadInitThunk [0x00007FFFD93EE8D7+23]
+	RtlUserThreadStart [0x00007FFFDAA3FBCC+44]
+
+2024-12-25 03:11:46,739 - INFO - Successfully scraped profile data
+2024-12-25 03:26:41,460 - INFO - Attempting to open profile URL: www.linkedin.com/in/ohri-akshit/
+2024-12-25 03:26:41,461 - INFO - Adding https:// scheme to: www.linkedin.com/in/ohri-akshit/
+2024-12-25 03:26:41,461 - INFO - Not a LinkedIn URL, navigating to: https://www.linkedin.com/in/ohri-akshit/
+2024-12-25 03:26:41,461 - INFO - Navigating to: https://www.linkedin.com/in/ohri-akshit/
+2024-12-25 03:26:53,515 - INFO - Navigated to https://www.linkedin.com/in/ohri-akshit/
+2024-12-25 03:27:27,829 - INFO - Successfully scraped profile data
+2024-12-25 03:28:01,742 - INFO - Attempting to open profile URL: www.linkedin.com/in/ohri-akshit/
+2024-12-25 03:28:01,742 - INFO - Adding https:// scheme to: www.linkedin.com/in/ohri-akshit/
+2024-12-25 03:28:01,743 - INFO - Not a LinkedIn URL, navigating to: https://www.linkedin.com/in/ohri-akshit/
+2024-12-25 03:28:01,743 - INFO - Navigating to: https://www.linkedin.com/in/ohri-akshit/
+2024-12-25 03:28:08,891 - INFO - Navigated to https://www.linkedin.com/in/ohri-akshit/
+2024-12-25 03:28:34,757 - INFO - Successfully scraped profile data
+2024-12-25 03:29:30,005 - INFO - Attempting to open profile URL: www.linkedin.com/in/purviksharma/
+2024-12-25 03:29:30,006 - INFO - Adding https:// scheme to: www.linkedin.com/in/purviksharma/
+2024-12-25 03:29:30,006 - INFO - Not a LinkedIn URL, navigating to: https://www.linkedin.com/in/purviksharma/
+2024-12-25 03:29:30,006 - INFO - Navigating to: https://www.linkedin.com/in/purviksharma/
+2024-12-25 03:29:37,435 - INFO - Navigated to https://www.linkedin.com/in/purviksharma/
+2024-12-25 03:30:11,329 - INFO - Successfully scraped profile data
+2024-12-25 03:30:32,541 - INFO - Attempting to open profile URL: www.linkedin.com/in/purviksharma/
+2024-12-25 03:30:32,541 - INFO - Adding https:// scheme to: www.linkedin.com/in/purviksharma/
+2024-12-25 03:30:32,541 - INFO - Not a LinkedIn URL, navigating to: https://www.linkedin.com/in/purviksharma/
+2024-12-25 03:30:32,541 - INFO - Navigating to: https://www.linkedin.com/in/purviksharma/
+2024-12-25 03:30:38,987 - INFO - Navigated to https://www.linkedin.com/in/purviksharma/
+2024-12-25 03:31:13,013 - INFO - Successfully scraped profile data
+2024-12-25 03:33:23,909 - INFO - Attempting to open profile URL: www.linkedin.com/in/ohri-akshit/
+2024-12-25 03:33:23,910 - INFO - Adding https:// scheme to: www.linkedin.com/in/ohri-akshit/
+2024-12-25 03:33:23,910 - INFO - Not a LinkedIn URL, navigating to: https://www.linkedin.com/in/ohri-akshit/
+2024-12-25 03:33:23,910 - INFO - Navigating to: https://www.linkedin.com/in/ohri-akshit/
+2024-12-25 03:33:31,565 - INFO - Navigated to https://www.linkedin.com/in/ohri-akshit/
+2024-12-25 03:34:05,719 - INFO - Successfully scraped profile data
+2024-12-25 03:41:41,226 - INFO - Attempting to open profile URL: www.linkedin.com/in/ohri-akshit/
+2024-12-25 03:41:41,226 - INFO - Adding https:// scheme to: www.linkedin.com/in/ohri-akshit/
+2024-12-25 03:41:41,226 - INFO - Not a LinkedIn URL, navigating to: https://www.linkedin.com/in/ohri-akshit/
+2024-12-25 03:41:41,226 - INFO - Navigating to: https://www.linkedin.com/in/ohri-akshit/
+2024-12-25 03:41:45,800 - INFO - Navigated to https://www.linkedin.com/in/ohri-akshit/
+2024-12-25 03:42:59,626 - INFO - Successfully scraped profile data
+2024-12-25 03:43:48,021 - INFO - Attempting to open profile URL: www.linkedin.com/in/purviksharma/
+2024-12-25 03:43:48,021 - INFO - Adding https:// scheme to: www.linkedin.com/in/purviksharma/
+2024-12-25 03:43:48,021 - INFO - Not a LinkedIn URL, navigating to: https://www.linkedin.com/in/purviksharma/
+2024-12-25 03:43:48,021 - INFO - Navigating to: https://www.linkedin.com/in/purviksharma/
+2024-12-25 03:43:59,638 - INFO - Navigated to https://www.linkedin.com/in/purviksharma/
+2024-12-25 03:44:45,300 - INFO - Successfully scraped profile data
+2024-12-25 04:00:03,207 - INFO - Attempting to open profile URL: www.linkedin.com/in/purviksharma/
+2024-12-25 04:00:03,207 - INFO - Adding https:// scheme to: www.linkedin.com/in/purviksharma/
+2024-12-25 04:00:03,207 - INFO - Not a LinkedIn URL, navigating to: https://www.linkedin.com/in/purviksharma/
+2024-12-25 04:00:03,207 - INFO - Navigating to: https://www.linkedin.com/in/purviksharma/
+2024-12-25 04:00:09,408 - INFO - Navigated to https://www.linkedin.com/in/purviksharma/
+2024-12-25 04:01:08,408 - INFO - Successfully scraped profile data
+2024-12-25 04:05:08,672 - INFO - Attempting to open profile URL: www.linkedin.com/in/purviksharma/
+2024-12-25 04:05:08,673 - INFO - Adding https:// scheme to: www.linkedin.com/in/purviksharma/
+2024-12-25 04:05:08,673 - INFO - Not a LinkedIn URL, navigating to: https://www.linkedin.com/in/purviksharma/
+2024-12-25 04:05:08,673 - INFO - Navigating to: https://www.linkedin.com/in/purviksharma/
+2024-12-25 04:05:14,645 - INFO - Navigated to https://www.linkedin.com/in/purviksharma/
+2024-12-25 04:05:46,620 - INFO - Successfully scraped profile data
+2024-12-25 04:08:46,536 - INFO - Attempting to open profile URL: www.linkedin.com/in/purviksharma/
+2024-12-25 04:08:46,536 - INFO - Adding https:// scheme to: www.linkedin.com/in/purviksharma/
+2024-12-25 04:08:46,536 - INFO - Not a LinkedIn URL, navigating to: https://www.linkedin.com/in/purviksharma/
+2024-12-25 04:08:46,536 - INFO - Navigating to: https://www.linkedin.com/in/purviksharma/
+2024-12-25 04:08:51,005 - INFO - Navigated to https://www.linkedin.com/in/purviksharma/
+2024-12-25 04:09:34,468 - WARNING - No Skills found
+2024-12-25 04:09:34,468 - INFO - Successfully scraped profile data
+2024-12-25 04:11:34,279 - INFO - Attempting to open profile URL: www.linkedin.com/in/purviksharma/
+2024-12-25 04:11:34,280 - INFO - Adding https:// scheme to: www.linkedin.com/in/purviksharma/
+2024-12-25 04:11:34,280 - INFO - Not a LinkedIn URL, navigating to: https://www.linkedin.com/in/purviksharma/
+2024-12-25 04:11:34,280 - INFO - Navigating to: https://www.linkedin.com/in/purviksharma/
+2024-12-25 04:11:39,001 - INFO - Navigated to https://www.linkedin.com/in/purviksharma/
+2024-12-25 04:12:06,456 - WARNING - No Skills found
+2024-12-25 04:12:06,456 - INFO - Successfully scraped profile data
+2024-12-25 04:14:59,844 - INFO - Attempting to open profile URL: www.linkedin.com/in/purviksharma/
+2024-12-25 04:14:59,846 - INFO - Adding https:// scheme to: www.linkedin.com/in/purviksharma/
+2024-12-25 04:14:59,846 - INFO - Not a LinkedIn URL, navigating to: https://www.linkedin.com/in/purviksharma/
+2024-12-25 04:14:59,846 - INFO - Navigating to: https://www.linkedin.com/in/purviksharma/
+2024-12-25 04:15:07,294 - INFO - Navigated to https://www.linkedin.com/in/purviksharma/
+2024-12-25 04:15:35,123 - WARNING - No Skills found
+2024-12-25 04:15:35,123 - INFO - Successfully scraped profile data
+2024-12-25 04:17:10,467 - INFO - Attempting to open profile URL: www.linkedin.com/in/purviksharma/
+2024-12-25 04:17:10,470 - INFO - Adding https:// scheme to: www.linkedin.com/in/purviksharma/
+2024-12-25 04:17:10,470 - INFO - Not a LinkedIn URL, navigating to: https://www.linkedin.com/in/purviksharma/
+2024-12-25 04:17:10,471 - INFO - Navigating to: https://www.linkedin.com/in/purviksharma/
+2024-12-25 04:17:15,410 - INFO - Navigated to https://www.linkedin.com/in/purviksharma/
+2024-12-25 04:17:27,493 - WARNING - No Skills found
+2024-12-25 04:17:27,494 - INFO - Successfully scraped profile data
+2024-12-25 04:18:34,793 - INFO - Attempting to open profile URL: www.linkedin.com/in/purviksharma/
+2024-12-25 04:18:34,793 - INFO - Adding https:// scheme to: www.linkedin.com/in/purviksharma/
+2024-12-25 04:18:34,793 - INFO - Not a LinkedIn URL, navigating to: https://www.linkedin.com/in/purviksharma/
+2024-12-25 04:18:34,793 - INFO - Navigating to: https://www.linkedin.com/in/purviksharma/
+2024-12-25 04:18:41,095 - INFO - Navigated to https://www.linkedin.com/in/purviksharma/
+2024-12-25 04:18:57,751 - WARNING - No Skills found
+2024-12-25 04:18:57,751 - INFO - Successfully scraped profile data
+2024-12-25 04:20:27,178 - INFO - Attempting to open profile URL: www.linkedin.com/in/purviksharma/
+2024-12-25 04:20:27,179 - INFO - Adding https:// scheme to: www.linkedin.com/in/purviksharma/
+2024-12-25 04:20:27,179 - INFO - Not a LinkedIn URL, navigating to: https://www.linkedin.com/in/purviksharma/
+2024-12-25 04:20:27,179 - INFO - Navigating to: https://www.linkedin.com/in/purviksharma/
+2024-12-25 04:20:32,033 - INFO - Navigated to https://www.linkedin.com/in/purviksharma/
+2024-12-25 04:20:43,781 - WARNING - No Skills found
+2024-12-25 04:20:43,781 - INFO - Successfully scraped profile data
+2024-12-25 04:24:36,049 - INFO - Attempting to open profile URL: www.linkedin.com/in/purviksharma/
+2024-12-25 04:24:36,049 - INFO - Adding https:// scheme to: www.linkedin.com/in/purviksharma/
+2024-12-25 04:24:36,049 - INFO - Not a LinkedIn URL, navigating to: https://www.linkedin.com/in/purviksharma/
+2024-12-25 04:24:36,049 - INFO - Navigating to: https://www.linkedin.com/in/purviksharma/
+2024-12-25 04:24:40,985 - INFO - Navigated to https://www.linkedin.com/in/purviksharma/
+2024-12-25 04:24:50,191 - WARNING - No Skills found because of: Message: no such element: Unable to locate element: {"method":"css selector","selector":"button[aria-label*="skills"]"}
+  (Session info: chrome=131.0.6778.205); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7899BFB05+28789]
+	(No symbol) [0x00007FF7899286E0]
+	(No symbol) [0x00007FF7897C592A]
+	(No symbol) [0x00007FF78981930E]
+	(No symbol) [0x00007FF7898195FC]
+	(No symbol) [0x00007FF78980C6EC]
+	(No symbol) [0x00007FF78983F47F]
+	(No symbol) [0x00007FF78980C5B6]
+	(No symbol) [0x00007FF78983F650]
+	(No symbol) [0x00007FF78985F654]
+	(No symbol) [0x00007FF78983F1E3]
+	(No symbol) [0x00007FF78980A938]
+	(No symbol) [0x00007FF78980BAA1]
+	GetHandleVerifier [0x00007FF789CF933D+3410093]
+	GetHandleVerifier [0x00007FF789D0E7DD+3497293]
+	GetHandleVerifier [0x00007FF789D02A73+3448803]
+	GetHandleVerifier [0x00007FF789A87BBB+848171]
+	(No symbol) [0x00007FF789933C3F]
+	(No symbol) [0x00007FF78992F6E4]
+	(No symbol) [0x00007FF78992F87D]
+	(No symbol) [0x00007FF78991ED49]
+	BaseThreadInitThunk [0x00007FFFD93EE8D7+23]
+	RtlUserThreadStart [0x00007FFFDAA3FBCC+44]
+
+2024-12-25 04:24:50,192 - INFO - Successfully scraped profile data
+2024-12-25 04:26:34,636 - INFO - Attempting to open profile URL: www.linkedin.com/in/purviksharma/
+2024-12-25 04:26:34,637 - INFO - Adding https:// scheme to: www.linkedin.com/in/purviksharma/
+2024-12-25 04:26:34,637 - INFO - Not a LinkedIn URL, navigating to: https://www.linkedin.com/in/purviksharma/
+2024-12-25 04:26:34,637 - INFO - Navigating to: https://www.linkedin.com/in/purviksharma/
+2024-12-25 04:26:39,451 - INFO - Navigated to https://www.linkedin.com/in/purviksharma/
+2024-12-25 04:26:47,531 - WARNING - No Skills found because of: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//button[contains(text(), "Show all skills")]"}
+  (Session info: chrome=131.0.6778.205); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7899BFB05+28789]
+	(No symbol) [0x00007FF7899286E0]
+	(No symbol) [0x00007FF7897C592A]
+	(No symbol) [0x00007FF78981930E]
+	(No symbol) [0x00007FF7898195FC]
+	(No symbol) [0x00007FF78980C6EC]
+	(No symbol) [0x00007FF78983F47F]
+	(No symbol) [0x00007FF78980C5B6]
+	(No symbol) [0x00007FF78983F650]
+	(No symbol) [0x00007FF78985F654]
+	(No symbol) [0x00007FF78983F1E3]
+	(No symbol) [0x00007FF78980A938]
+	(No symbol) [0x00007FF78980BAA1]
+	GetHandleVerifier [0x00007FF789CF933D+3410093]
+	GetHandleVerifier [0x00007FF789D0E7DD+3497293]
+	GetHandleVerifier [0x00007FF789D02A73+3448803]
+	GetHandleVerifier [0x00007FF789A87BBB+848171]
+	(No symbol) [0x00007FF789933C3F]
+	(No symbol) [0x00007FF78992F6E4]
+	(No symbol) [0x00007FF78992F87D]
+	(No symbol) [0x00007FF78991ED49]
+	BaseThreadInitThunk [0x00007FFFD93EE8D7+23]
+	RtlUserThreadStart [0x00007FFFDAA3FBCC+44]
+
+2024-12-25 04:26:47,532 - INFO - Successfully scraped profile data
+2024-12-25 04:30:46,685 - INFO - Attempting to open profile URL: www.linkedin.com/in/purviksharma/
+2024-12-25 04:30:46,685 - INFO - Adding https:// scheme to: www.linkedin.com/in/purviksharma/
+2024-12-25 04:30:46,685 - INFO - Not a LinkedIn URL, navigating to: https://www.linkedin.com/in/purviksharma/
+2024-12-25 04:30:46,685 - INFO - Navigating to: https://www.linkedin.com/in/purviksharma/
+2024-12-25 04:30:53,103 - INFO - Navigated to https://www.linkedin.com/in/purviksharma/
+2024-12-25 04:31:08,223 - WARNING - No Skills found because of: Message: 
+
+2024-12-25 04:31:08,223 - INFO - Successfully scraped profile data
+2024-12-25 04:40:28,791 - INFO - Attempting to open profile URL: www.linkedin.com/in/purviksharma/
+2024-12-25 04:40:28,791 - INFO - Adding https:// scheme to: www.linkedin.com/in/purviksharma/
+2024-12-25 04:40:28,791 - INFO - Not a LinkedIn URL, navigating to: https://www.linkedin.com/in/purviksharma/
+2024-12-25 04:40:28,791 - INFO - Navigating to: https://www.linkedin.com/in/purviksharma/
+2024-12-25 04:40:33,201 - INFO - Navigated to https://www.linkedin.com/in/purviksharma/
+2024-12-25 04:41:10,004 - WARNING - No Skills found because of: Message: 
+
+2024-12-25 04:41:10,005 - INFO - Successfully scraped profile data
+2024-12-25 04:43:23,001 - INFO - Attempting to open profile URL: www.linkedin.com/in/purviksharma/
+2024-12-25 04:43:23,002 - INFO - Adding https:// scheme to: www.linkedin.com/in/purviksharma/
+2024-12-25 04:43:23,002 - INFO - Not a LinkedIn URL, navigating to: https://www.linkedin.com/in/purviksharma/
+2024-12-25 04:43:23,002 - INFO - Navigating to: https://www.linkedin.com/in/purviksharma/
+2024-12-25 04:43:27,444 - INFO - Navigated to https://www.linkedin.com/in/purviksharma/
+2024-12-25 04:43:41,541 - WARNING - No Skills found because of: Message: 
+
+2024-12-25 04:43:41,543 - INFO - Successfully scraped profile data
+2024-12-25 04:48:20,419 - INFO - Attempting to open profile URL: www.linkedin.com/in/purviksharma/
+2024-12-25 04:48:20,419 - INFO - Adding https:// scheme to: www.linkedin.com/in/purviksharma/
+2024-12-25 04:48:20,419 - INFO - Not a LinkedIn URL, navigating to: https://www.linkedin.com/in/purviksharma/
+2024-12-25 04:48:20,419 - INFO - Navigating to: https://www.linkedin.com/in/purviksharma/
+2024-12-25 04:48:24,831 - INFO - Navigated to https://www.linkedin.com/in/purviksharma/
+2024-12-25 04:48:37,678 - WARNING - No Skills found because of: Message: 
+
+2024-12-25 04:48:37,678 - INFO - Successfully scraped profile data
+2024-12-25 04:49:08,509 - INFO - Attempting to open profile URL: www.linkedin.com/in/purviksharma/
+2024-12-25 04:49:08,510 - INFO - Adding https:// scheme to: www.linkedin.com/in/purviksharma/
+2024-12-25 04:49:08,510 - INFO - Not a LinkedIn URL, navigating to: https://www.linkedin.com/in/purviksharma/
+2024-12-25 04:49:08,510 - INFO - Navigating to: https://www.linkedin.com/in/purviksharma/
+2024-12-25 04:49:12,674 - INFO - Navigated to https://www.linkedin.com/in/purviksharma/
+2024-12-25 04:49:27,665 - WARNING - No Skills found because of: Message: 
+
+2024-12-25 04:49:27,665 - INFO - Successfully scraped profile data
+2024-12-25 04:50:20,690 - INFO - Attempting to open profile URL: www.linkedin.com/in/purviksharma/
+2024-12-25 04:50:20,691 - INFO - Adding https:// scheme to: www.linkedin.com/in/purviksharma/
+2024-12-25 04:50:20,691 - INFO - Not a LinkedIn URL, navigating to: https://www.linkedin.com/in/purviksharma/
+2024-12-25 04:50:20,691 - INFO - Navigating to: https://www.linkedin.com/in/purviksharma/
+2024-12-25 04:50:25,560 - INFO - Navigated to https://www.linkedin.com/in/purviksharma/
+2024-12-25 04:50:47,491 - WARNING - No Skills found because of: Message: 
+
+2024-12-25 04:50:47,491 - INFO - Successfully scraped profile data
+2024-12-25 04:53:46,107 - INFO - Attempting to open profile URL: www.linkedin.com/in/purviksharma/
+2024-12-25 04:53:46,107 - INFO - Adding https:// scheme to: www.linkedin.com/in/purviksharma/
+2024-12-25 04:53:46,107 - INFO - Not a LinkedIn URL, navigating to: https://www.linkedin.com/in/purviksharma/
+2024-12-25 04:53:46,108 - INFO - Navigating to: https://www.linkedin.com/in/purviksharma/
+2024-12-25 04:53:50,756 - INFO - Navigated to https://www.linkedin.com/in/purviksharma/
+2024-12-25 04:54:05,448 - WARNING - No Skills found because of: Message: 
+
+2024-12-25 04:54:05,448 - INFO - Successfully scraped profile data
+2024-12-25 04:55:07,215 - INFO - Attempting to open profile URL: www.linkedin.com/in/purviksharma/
+2024-12-25 04:55:07,218 - INFO - Adding https:// scheme to: www.linkedin.com/in/purviksharma/
+2024-12-25 04:55:07,218 - INFO - Not a LinkedIn URL, navigating to: https://www.linkedin.com/in/purviksharma/
+2024-12-25 04:55:07,218 - INFO - Navigating to: https://www.linkedin.com/in/purviksharma/
+2024-12-25 04:55:11,381 - INFO - Navigated to https://www.linkedin.com/in/purviksharma/
+2024-12-25 04:55:26,123 - WARNING - No Skills found because of: Message: 
+
+2024-12-25 04:55:26,123 - INFO - Successfully scraped profile data
+2024-12-25 04:56:34,108 - INFO - Attempting to open profile URL: www.linkedin.com/in/purviksharma/
+2024-12-25 04:56:34,109 - INFO - Adding https:// scheme to: www.linkedin.com/in/purviksharma/
+2024-12-25 04:56:34,109 - INFO - Not a LinkedIn URL, navigating to: https://www.linkedin.com/in/purviksharma/
+2024-12-25 04:56:34,109 - INFO - Navigating to: https://www.linkedin.com/in/purviksharma/
+2024-12-25 04:56:38,992 - INFO - Navigated to https://www.linkedin.com/in/purviksharma/
+2024-12-25 04:56:51,389 - WARNING - No Skills found because of: Message: 
+
+2024-12-25 04:56:51,390 - INFO - Successfully scraped profile data
+2024-12-25 04:57:52,033 - INFO - Attempting to open profile URL: www.linkedin.com/in/purviksharma/
+2024-12-25 04:57:52,033 - INFO - Adding https:// scheme to: www.linkedin.com/in/purviksharma/
+2024-12-25 04:57:52,033 - INFO - Not a LinkedIn URL, navigating to: https://www.linkedin.com/in/purviksharma/
+2024-12-25 04:57:52,034 - INFO - Navigating to: https://www.linkedin.com/in/purviksharma/
+2024-12-25 04:57:57,699 - INFO - Navigated to https://www.linkedin.com/in/purviksharma/
+2024-12-25 04:58:11,174 - WARNING - No Skills found because of: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7899BFB05+28789]
+	(No symbol) [0x00007FF7899286E0]
+	(No symbol) [0x00007FF7897C592A]
+	(No symbol) [0x00007FF78981930E]
+	(No symbol) [0x00007FF7898195FC]
+	(No symbol) [0x00007FF7898628A7]
+	(No symbol) [0x00007FF78983F47F]
+	(No symbol) [0x00007FF78985F654]
+	(No symbol) [0x00007FF78983F1E3]
+	(No symbol) [0x00007FF78980A938]
+	(No symbol) [0x00007FF78980BAA1]
+	GetHandleVerifier [0x00007FF789CF933D+3410093]
+	GetHandleVerifier [0x00007FF789D0E7DD+3497293]
+	GetHandleVerifier [0x00007FF789D02A73+3448803]
+	GetHandleVerifier [0x00007FF789A87BBB+848171]
+	(No symbol) [0x00007FF789933C3F]
+	(No symbol) [0x00007FF78992F6E4]
+	(No symbol) [0x00007FF78992F87D]
+	(No symbol) [0x00007FF78991ED49]
+	BaseThreadInitThunk [0x00007FFFD93EE8D7+23]
+	RtlUserThreadStart [0x00007FFFDAA3FBCC+44]
+
+2024-12-25 04:58:11,175 - INFO - Successfully scraped profile data
+2024-12-25 05:00:51,697 - INFO - Attempting to open profile URL: www.linkedin.com/in/purviksharma/
+2024-12-25 05:00:51,702 - INFO - Adding https:// scheme to: www.linkedin.com/in/purviksharma/
+2024-12-25 05:00:51,702 - INFO - Not a LinkedIn URL, navigating to: https://www.linkedin.com/in/purviksharma/
+2024-12-25 05:00:51,702 - INFO - Navigating to: https://www.linkedin.com/in/purviksharma/
+2024-12-25 05:00:56,969 - INFO - Navigated to https://www.linkedin.com/in/purviksharma/
+2024-12-25 05:01:14,659 - WARNING - Could not extract data from skill element: Animation
+Animation
+Endorsed by 1 person in the last 6 months
+Endorsed by 1 person in the last 6 months
+1 endorsement
+1 endorsement
+AWWARDS
+AWWARDS
+2024-12-25 05:01:29,486 - WARNING - Could not extract data from skill element: GreenSock Animation Platform (GSAP)
+GreenSock Animation Platform (GSAP)
+Endorsed by 1 person in the last 6 months
+Endorsed by 1 person in the last 6 months
+1 endorsement
+1 endorsement
+AWWARDS
+AWWARDS
+2024-12-25 05:01:44,291 - WARNING - Could not extract data from skill element: Redux.js
+Redux.js
+AWWARDS
+AWWARDS
+2024-12-25 05:01:59,059 - WARNING - Could not extract data from skill element: Application Programming Interfaces (API)
+Application Programming Interfaces (API)
+Web Developer at Snugs Official
+Web Developer at Snugs Official
+2024-12-25 05:02:13,825 - WARNING - Could not extract data from skill element: Back-End Web Development
+Back-End Web Development
+Web Developer at Snugs Official
+Web Developer at Snugs Official
+2024-12-25 05:02:28,626 - WARNING - Could not extract data from skill element: Database Design
+Database Design
+Web Developer at Snugs Official
+Web Developer at Snugs Official
+2024-12-25 05:02:43,440 - WARNING - Could not extract data from skill element: Mongoose Web Server
+Mongoose Web Server
+Web Developer at Snugs Official
+Web Developer at Snugs Official
+2024-12-25 05:02:58,274 - WARNING - Could not extract data from skill element: Project Management
+Project Management
+Volunteer at Brain Circuit
+Volunteer at Brain Circuit
+AWWARDS
+AWWARDS
+2024-12-25 05:03:13,048 - WARNING - Could not extract data from skill element: MERN Stack
+MERN Stack
+2 experiences across Snugs Official and 1 other company
+2 experiences across Snugs Official and 1 other company
+AWWARDS
+AWWARDS
+2024-12-25 05:03:27,860 - WARNING - Could not extract data from skill element: Object-Oriented Programming (OOP)
+Object-Oriented Programming (OOP)
+Electronic Arts - Software Engineering Job Simulation
+Electronic Arts - Software Engineering Job Simulation
+2024-12-25 05:03:42,757 - WARNING - Could not extract data from skill element: Web Development
+Web Development
+Volunteer at Brain Circuit
+Volunteer at Brain Circuit
+2024-12-25 05:03:57,539 - WARNING - Could not extract data from skill element: Node.js
+Node.js
+2024-12-25 05:04:12,318 - WARNING - Could not extract data from skill element: Creative Problem Solving
+Creative Problem Solving
+2024-12-25 05:04:53,162 - INFO - Attempting to open profile URL: www.linkedin.com/in/purviksharma/
+2024-12-25 05:04:53,163 - INFO - Adding https:// scheme to: www.linkedin.com/in/purviksharma/
+2024-12-25 05:04:53,163 - INFO - Not a LinkedIn URL, navigating to: https://www.linkedin.com/in/purviksharma/
+2024-12-25 05:04:53,163 - INFO - Navigating to: https://www.linkedin.com/in/purviksharma/
+2024-12-25 05:04:57,934 - INFO - Navigated to https://www.linkedin.com/in/purviksharma/
+2024-12-25 05:04:59,954 - WARNING - No Skills found because of: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=131.0.6778.205); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7899BFB05+28789]
+	(No symbol) [0x00007FF7899286E0]
+	(No symbol) [0x00007FF7897C592A]
+	(No symbol) [0x00007FF7897CC48F]
+	(No symbol) [0x00007FF7897CF4BF]
+	(No symbol) [0x00007FF789860910]
+	(No symbol) [0x00007FF78983F43A]
+	(No symbol) [0x00007FF78985F654]
+	(No symbol) [0x00007FF78983F1E3]
+	(No symbol) [0x00007FF78980A938]
+	(No symbol) [0x00007FF78980BAA1]
+	GetHandleVerifier [0x00007FF789CF933D+3410093]
+	GetHandleVerifier [0x00007FF789D0E7DD+3497293]
+	GetHandleVerifier [0x00007FF789D02A73+3448803]
+	GetHandleVerifier [0x00007FF789A87BBB+848171]
+	(No symbol) [0x00007FF789933C3F]
+	(No symbol) [0x00007FF78992F6E4]
+	(No symbol) [0x00007FF78992F87D]
+	(No symbol) [0x00007FF78991ED49]
+	BaseThreadInitThunk [0x00007FFFD93EE8D7+23]
+	RtlUserThreadStart [0x00007FFFDAA3FBCC+44]
+
+2024-12-25 05:04:59,954 - INFO - Successfully scraped profile data
+2024-12-25 05:06:36,718 - INFO - Attempting to open profile URL: www.linkedin.com/in/purviksharma/
+2024-12-25 05:06:36,718 - INFO - Adding https:// scheme to: www.linkedin.com/in/purviksharma/
+2024-12-25 05:06:36,718 - INFO - Not a LinkedIn URL, navigating to: https://www.linkedin.com/in/purviksharma/
+2024-12-25 05:06:36,718 - INFO - Navigating to: https://www.linkedin.com/in/purviksharma/
+2024-12-25 05:06:42,940 - INFO - Navigated to https://www.linkedin.com/in/purviksharma/
+2024-12-25 05:06:45,007 - WARNING - No Skills found because of: Could not find dynamic id in href
+2024-12-25 05:06:45,007 - INFO - Successfully scraped profile data
+2024-12-25 05:09:24,918 - INFO - Attempting to open profile URL: www.linkedin.com/in/purviksharma/
+2024-12-25 05:09:24,918 - INFO - Adding https:// scheme to: www.linkedin.com/in/purviksharma/
+2024-12-25 05:09:24,918 - INFO - Not a LinkedIn URL, navigating to: https://www.linkedin.com/in/purviksharma/
+2024-12-25 05:09:24,918 - INFO - Navigating to: https://www.linkedin.com/in/purviksharma/
+2024-12-25 05:09:32,931 - INFO - Navigated to https://www.linkedin.com/in/purviksharma/
+2024-12-25 05:09:34,877 - WARNING - No Skills found because of: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=131.0.6778.205); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7899BFB05+28789]
+	(No symbol) [0x00007FF7899286E0]
+	(No symbol) [0x00007FF7897C592A]
+	(No symbol) [0x00007FF7897CC48F]
+	(No symbol) [0x00007FF7897CF4BF]
+	(No symbol) [0x00007FF789860910]
+	(No symbol) [0x00007FF78983F43A]
+	(No symbol) [0x00007FF78985F654]
+	(No symbol) [0x00007FF78983F1E3]
+	(No symbol) [0x00007FF78980A938]
+	(No symbol) [0x00007FF78980BAA1]
+	GetHandleVerifier [0x00007FF789CF933D+3410093]
+	GetHandleVerifier [0x00007FF789D0E7DD+3497293]
+	GetHandleVerifier [0x00007FF789D02A73+3448803]
+	GetHandleVerifier [0x00007FF789A87BBB+848171]
+	(No symbol) [0x00007FF789933C3F]
+	(No symbol) [0x00007FF78992F6E4]
+	(No symbol) [0x00007FF78992F87D]
+	(No symbol) [0x00007FF78991ED49]
+	BaseThreadInitThunk [0x00007FFFD93EE8D7+23]
+	RtlUserThreadStart [0x00007FFFDAA3FBCC+44]
+
+2024-12-25 05:09:34,877 - INFO - Successfully scraped profile data
+2024-12-25 05:11:40,325 - INFO - Attempting to open profile URL: www.linkedin.com/in/purviksharma/
+2024-12-25 05:11:40,325 - INFO - Adding https:// scheme to: www.linkedin.com/in/purviksharma/
+2024-12-25 05:11:40,325 - INFO - Not a LinkedIn URL, navigating to: https://www.linkedin.com/in/purviksharma/
+2024-12-25 05:11:40,325 - INFO - Navigating to: https://www.linkedin.com/in/purviksharma/
+2024-12-25 05:11:45,029 - INFO - Navigated to https://www.linkedin.com/in/purviksharma/
+2024-12-25 05:11:46,788 - INFO - Extracted Dynamic ID: ACoAAFLxXvkBr7t8cT7a-bw7iqBl9fBt25WknBc
+2024-12-25 05:11:58,753 - WARNING - No Skills found because of: Message: 
+
+2024-12-25 05:11:58,754 - INFO - Successfully scraped profile data
+2024-12-25 05:13:39,919 - INFO - Attempting to open profile URL: www.linkedin.com/in/purviksharma/
+2024-12-25 05:13:39,919 - INFO - Adding https:// scheme to: www.linkedin.com/in/purviksharma/
+2024-12-25 05:13:39,919 - INFO - Not a LinkedIn URL, navigating to: https://www.linkedin.com/in/purviksharma/
+2024-12-25 05:13:39,919 - INFO - Navigating to: https://www.linkedin.com/in/purviksharma/
+2024-12-25 05:13:44,904 - INFO - Navigated to https://www.linkedin.com/in/purviksharma/
+2024-12-25 05:13:46,251 - INFO - Extracted Dynamic ID: ACoAAFLxXvkBr7t8cT7a-bw7iqBl9fBt25WknBc
+2024-12-25 05:13:57,657 - WARNING - No Skills found because of: Message: 
+
+2024-12-25 05:13:57,657 - INFO - Successfully scraped profile data
+2024-12-25 05:18:57,544 - INFO - Attempting to open profile URL: www.linkedin.com/in/purviksharma/
+2024-12-25 05:18:57,544 - INFO - Adding https:// scheme to: www.linkedin.com/in/purviksharma/
+2024-12-25 05:18:57,544 - INFO - Not a LinkedIn URL, navigating to: https://www.linkedin.com/in/purviksharma/
+2024-12-25 05:18:57,544 - INFO - Navigating to: https://www.linkedin.com/in/purviksharma/
+2024-12-25 05:19:02,410 - INFO - Navigated to https://www.linkedin.com/in/purviksharma/
+2024-12-25 05:19:03,966 - INFO - Extracted Dynamic ID: ACoAAFLxXvkBr7t8cT7a-bw7iqBl9fBt25WknBc
+2024-12-25 05:19:15,699 - WARNING - No Skills found because of: Message: 
+
+2024-12-25 05:19:15,699 - INFO - Successfully scraped profile data
+2024-12-25 05:22:15,665 - INFO - Attempting to open profile URL: www.linkedin.com/in/purviksharma/
+2024-12-25 05:22:15,665 - INFO - Adding https:// scheme to: www.linkedin.com/in/purviksharma/
+2024-12-25 05:22:15,665 - INFO - Not a LinkedIn URL, navigating to: https://www.linkedin.com/in/purviksharma/
+2024-12-25 05:22:15,665 - INFO - Navigating to: https://www.linkedin.com/in/purviksharma/
+2024-12-25 05:22:20,425 - INFO - Navigated to https://www.linkedin.com/in/purviksharma/
+2024-12-25 05:22:21,896 - INFO - Extracted Dynamic ID: ACoAAFLxXvkBr7t8cT7a-bw7iqBl9fBt25WknBc
+2024-12-25 05:22:34,238 - WARNING - No Skills found because of: Message: 
+
+2024-12-25 05:22:34,238 - INFO - Successfully scraped profile data
+2024-12-25 05:24:56,886 - INFO - Attempting to open profile URL: www.linkedin.com/in/purviksharma/
+2024-12-25 05:24:56,886 - INFO - Adding https:// scheme to: www.linkedin.com/in/purviksharma/
+2024-12-25 05:24:56,888 - INFO - Not a LinkedIn URL, navigating to: https://www.linkedin.com/in/purviksharma/
+2024-12-25 05:24:56,888 - INFO - Navigating to: https://www.linkedin.com/in/purviksharma/
+2024-12-25 05:25:01,079 - INFO - Navigated to https://www.linkedin.com/in/purviksharma/
+2024-12-25 05:25:05,283 - WARNING - No Skills found because of: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=131.0.6778.205); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7899BFB05+28789]
+	(No symbol) [0x00007FF7899286E0]
+	(No symbol) [0x00007FF7897C592A]
+	(No symbol) [0x00007FF7897CC48F]
+	(No symbol) [0x00007FF7897CF13C]
+	(No symbol) [0x00007FF7897CF20F]
+	(No symbol) [0x00007FF789818DBA]
+	(No symbol) [0x00007FF7898195FC]
+	(No symbol) [0x00007FF78980CBBC]
+	(No symbol) [0x00007FF78983F47F]
+	(No symbol) [0x00007FF78980C5B6]
+	(No symbol) [0x00007FF78983F650]
+	(No symbol) [0x00007FF78985F654]
+	(No symbol) [0x00007FF78983F1E3]
+	(No symbol) [0x00007FF78980A938]
+	(No symbol) [0x00007FF78980BAA1]
+	GetHandleVerifier [0x00007FF789CF933D+3410093]
+	GetHandleVerifier [0x00007FF789D0E7DD+3497293]
+	GetHandleVerifier [0x00007FF789D02A73+3448803]
+	GetHandleVerifier [0x00007FF789A87BBB+848171]
+	(No symbol) [0x00007FF789933C3F]
+	(No symbol) [0x00007FF78992F6E4]
+	(No symbol) [0x00007FF78992F87D]
+	(No symbol) [0x00007FF78991ED49]
+	BaseThreadInitThunk [0x00007FFFD93EE8D7+23]
+	RtlUserThreadStart [0x00007FFFDAA3FBCC+44]
+
+2024-12-25 05:25:05,284 - INFO - Successfully scraped profile data
+2024-12-25 05:27:39,888 - INFO - Attempting to open profile URL: www.linkedin.com/in/purviksharma/
+2024-12-25 05:27:39,889 - INFO - Adding https:// scheme to: www.linkedin.com/in/purviksharma/
+2024-12-25 05:27:39,889 - INFO - Not a LinkedIn URL, navigating to: https://www.linkedin.com/in/purviksharma/
+2024-12-25 05:27:39,889 - INFO - Navigating to: https://www.linkedin.com/in/purviksharma/
+2024-12-25 05:27:44,458 - INFO - Navigated to https://www.linkedin.com/in/purviksharma/
+2024-12-25 05:27:47,507 - WARNING - No Skills found because of: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=131.0.6778.205); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7899BFB05+28789]
+	(No symbol) [0x00007FF7899286E0]
+	(No symbol) [0x00007FF7897C592A]
+	(No symbol) [0x00007FF7897CC48F]
+	(No symbol) [0x00007FF7897CF4BF]
+	(No symbol) [0x00007FF789860910]
+	(No symbol) [0x00007FF78983F43A]
+	(No symbol) [0x00007FF78985F654]
+	(No symbol) [0x00007FF78983F1E3]
+	(No symbol) [0x00007FF78980A938]
+	(No symbol) [0x00007FF78980BAA1]
+	GetHandleVerifier [0x00007FF789CF933D+3410093]
+	GetHandleVerifier [0x00007FF789D0E7DD+3497293]
+	GetHandleVerifier [0x00007FF789D02A73+3448803]
+	GetHandleVerifier [0x00007FF789A87BBB+848171]
+	(No symbol) [0x00007FF789933C3F]
+	(No symbol) [0x00007FF78992F6E4]
+	(No symbol) [0x00007FF78992F87D]
+	(No symbol) [0x00007FF78991ED49]
+	BaseThreadInitThunk [0x00007FFFD93EE8D7+23]
+	RtlUserThreadStart [0x00007FFFDAA3FBCC+44]
+
+2024-12-25 05:27:47,507 - INFO - Successfully scraped profile data
+2024-12-25 05:31:48,670 - INFO - Attempting to open profile URL: www.linkedin.com/in/purviksharma/
+2024-12-25 05:31:48,673 - INFO - Adding https:// scheme to: www.linkedin.com/in/purviksharma/
+2024-12-25 05:31:48,673 - INFO - Not a LinkedIn URL, navigating to: https://www.linkedin.com/in/purviksharma/
+2024-12-25 05:31:48,673 - INFO - Navigating to: https://www.linkedin.com/in/purviksharma/
+2024-12-25 05:31:53,362 - INFO - Navigated to https://www.linkedin.com/in/purviksharma/
+2024-12-25 05:31:54,639 - INFO - Extracted Dynamic ID: ACoAAFLxXvkBr7t8cT7a-bw7iqBl9fBt25WknBc
+2024-12-25 05:32:07,203 - WARNING - No Skills found because of: Message: 
+
+2024-12-25 05:32:07,204 - INFO - Successfully scraped profile data
+2024-12-25 05:33:21,404 - INFO - Attempting to open profile URL: www.linkedin.com/in/purviksharma/
+2024-12-25 05:33:21,405 - INFO - Adding https:// scheme to: www.linkedin.com/in/purviksharma/
+2024-12-25 05:33:21,405 - INFO - Not a LinkedIn URL, navigating to: https://www.linkedin.com/in/purviksharma/
+2024-12-25 05:33:21,405 - INFO - Navigating to: https://www.linkedin.com/in/purviksharma/
+2024-12-25 05:33:27,023 - INFO - Navigated to https://www.linkedin.com/in/purviksharma/
+2024-12-25 05:33:40,359 - WARNING - No Skills found because of: Message: 
+
+2024-12-25 05:33:40,360 - INFO - Successfully scraped profile data
+2024-12-25 05:35:15,841 - INFO - Attempting to open profile URL: www.linkedin.com/in/purviksharma/
+2024-12-25 05:35:15,842 - INFO - Adding https:// scheme to: www.linkedin.com/in/purviksharma/
+2024-12-25 05:35:15,842 - INFO - Not a LinkedIn URL, navigating to: https://www.linkedin.com/in/purviksharma/
+2024-12-25 05:35:15,842 - INFO - Navigating to: https://www.linkedin.com/in/purviksharma/
+2024-12-25 05:35:21,854 - INFO - Navigated to https://www.linkedin.com/in/purviksharma/
+2024-12-25 05:35:40,222 - WARNING - No Skills found because of: Message: 
+
+2024-12-25 05:35:40,222 - INFO - Successfully scraped profile data
+2024-12-25 05:38:42,784 - INFO - Attempting to open profile URL: www.linkedin.com/in/purviksharma/
+2024-12-25 05:38:42,784 - INFO - Adding https:// scheme to: www.linkedin.com/in/purviksharma/
+2024-12-25 05:38:42,784 - INFO - Not a LinkedIn URL, navigating to: https://www.linkedin.com/in/purviksharma/
+2024-12-25 05:38:42,784 - INFO - Navigating to: https://www.linkedin.com/in/purviksharma/
+2024-12-25 05:38:46,261 - INFO - Navigated to https://www.linkedin.com/in/purviksharma/
+2024-12-25 05:39:08,483 - WARNING - No Skills found because of: Message: 
+
+2024-12-25 05:39:08,483 - INFO - Successfully scraped profile data
+2024-12-25 05:40:32,655 - INFO - Attempting to open profile URL: www.linkedin.com/in/purviksharma/
+2024-12-25 05:40:32,655 - INFO - Adding https:// scheme to: www.linkedin.com/in/purviksharma/
+2024-12-25 05:40:32,655 - INFO - Not a LinkedIn URL, navigating to: https://www.linkedin.com/in/purviksharma/
+2024-12-25 05:40:32,655 - INFO - Navigating to: https://www.linkedin.com/in/purviksharma/
+2024-12-25 05:40:37,396 - INFO - Navigated to https://www.linkedin.com/in/purviksharma/
+2024-12-25 05:40:57,519 - WARNING - No Skills found because of: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7899BFB05+28789]
+	(No symbol) [0x00007FF7899286E0]
+	(No symbol) [0x00007FF7897C592A]
+	(No symbol) [0x00007FF78981930E]
+	(No symbol) [0x00007FF7898195FC]
+	(No symbol) [0x00007FF7898628A7]
+	(No symbol) [0x00007FF78983F47F]
+	(No symbol) [0x00007FF78985F654]
+	(No symbol) [0x00007FF78983F1E3]
+	(No symbol) [0x00007FF78980A938]
+	(No symbol) [0x00007FF78980BAA1]
+	GetHandleVerifier [0x00007FF789CF933D+3410093]
+	GetHandleVerifier [0x00007FF789D0E7DD+3497293]
+	GetHandleVerifier [0x00007FF789D02A73+3448803]
+	GetHandleVerifier [0x00007FF789A87BBB+848171]
+	(No symbol) [0x00007FF789933C3F]
+	(No symbol) [0x00007FF78992F6E4]
+	(No symbol) [0x00007FF78992F87D]
+	(No symbol) [0x00007FF78991ED49]
+	BaseThreadInitThunk [0x00007FFFD93EE8D7+23]
+	RtlUserThreadStart [0x00007FFFDAA3FBCC+44]
+
+2024-12-25 05:40:57,519 - INFO - Successfully scraped profile data
+2024-12-25 05:42:41,901 - INFO - Attempting to open profile URL: www.linkedin.com/in/purviksharma/
+2024-12-25 05:42:41,902 - INFO - Adding https:// scheme to: www.linkedin.com/in/purviksharma/
+2024-12-25 05:42:41,902 - INFO - Not a LinkedIn URL, navigating to: https://www.linkedin.com/in/purviksharma/
+2024-12-25 05:42:41,902 - INFO - Navigating to: https://www.linkedin.com/in/purviksharma/
+2024-12-25 05:42:46,549 - INFO - Navigated to https://www.linkedin.com/in/purviksharma/
+2024-12-25 05:43:01,551 - WARNING - Could not extract data from skill element: Animation
+Animation
+Endorsed by 1 person in the last 6 months
+Endorsed by 1 person in the last 6 months
+1 endorsement
+1 endorsement
+AWWARDS
+AWWARDS because of: 
+2024-12-25 05:43:13,991 - WARNING - Could not extract data from skill element: GreenSock Animation Platform (GSAP)
+GreenSock Animation Platform (GSAP)
+Endorsed by 1 person in the last 6 months
+Endorsed by 1 person in the last 6 months
+1 endorsement
+1 endorsement
+AWWARDS
+AWWARDS because of: 
+2024-12-25 05:43:26,411 - WARNING - Could not extract data from skill element: Redux.js
+Redux.js
+AWWARDS
+AWWARDS because of: 
+2024-12-25 05:43:38,819 - WARNING - Could not extract data from skill element: Application Programming Interfaces (API)
+Application Programming Interfaces (API)
+Web Developer at Snugs Official
+Web Developer at Snugs Official because of: 
+2024-12-25 05:43:51,234 - WARNING - Could not extract data from skill element: Back-End Web Development
+Back-End Web Development
+Web Developer at Snugs Official
+Web Developer at Snugs Official because of: 
+2024-12-25 05:44:03,642 - WARNING - Could not extract data from skill element: Database Design
+Database Design
+Web Developer at Snugs Official
+Web Developer at Snugs Official because of: 
+2024-12-25 05:44:16,063 - WARNING - Could not extract data from skill element: Mongoose Web Server
+Mongoose Web Server
+Web Developer at Snugs Official
+Web Developer at Snugs Official because of: 
+2024-12-25 05:44:33,882 - INFO - Attempting to open profile URL: www.linkedin.com/in/purviksharma/
+2024-12-25 05:44:33,884 - INFO - Adding https:// scheme to: www.linkedin.com/in/purviksharma/
+2024-12-25 05:44:33,884 - INFO - Not a LinkedIn URL, navigating to: https://www.linkedin.com/in/purviksharma/
+2024-12-25 05:44:33,884 - INFO - Navigating to: https://www.linkedin.com/in/purviksharma/
+2024-12-25 05:44:38,570 - INFO - Navigated to https://www.linkedin.com/in/purviksharma/
+2024-12-25 05:44:49,128 - WARNING - Could not extract data from skill element: Animation
+Animation
+Endorsed by 1 person in the last 6 months
+Endorsed by 1 person in the last 6 months
+1 endorsement
+1 endorsement
+AWWARDS
+AWWARDS because of: Message: no such element: Unable to locate element: {"method":"css selector","selector":"span[class*="skill-item__text"]"}
+  (Session info: chrome=131.0.6778.205); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7899BFB05+28789]
+	(No symbol) [0x00007FF7899286E0]
+	(No symbol) [0x00007FF7897C592A]
+	(No symbol) [0x00007FF78981930E]
+	(No symbol) [0x00007FF7898195FC]
+	(No symbol) [0x00007FF78980C6EC]
+	(No symbol) [0x00007FF78983F47F]
+	(No symbol) [0x00007FF78980C5B6]
+	(No symbol) [0x00007FF78983F650]
+	(No symbol) [0x00007FF78985F654]
+	(No symbol) [0x00007FF78983F1E3]
+	(No symbol) [0x00007FF78980A938]
+	(No symbol) [0x00007FF78980BAA1]
+	GetHandleVerifier [0x00007FF789CF933D+3410093]
+	GetHandleVerifier [0x00007FF789D0E7DD+3497293]
+	GetHandleVerifier [0x00007FF789D02A73+3448803]
+	GetHandleVerifier [0x00007FF789A87BBB+848171]
+	(No symbol) [0x00007FF789933C3F]
+	(No symbol) [0x00007FF78992F6E4]
+	(No symbol) [0x00007FF78992F87D]
+	(No symbol) [0x00007FF78991ED49]
+	BaseThreadInitThunk [0x00007FFFD93EE8D7+23]
+	RtlUserThreadStart [0x00007FFFDAA3FBCC+44]
+
+2024-12-25 05:44:56,818 - WARNING - Could not extract data from skill element: GreenSock Animation Platform (GSAP)
+GreenSock Animation Platform (GSAP)
+Endorsed by 1 person in the last 6 months
+Endorsed by 1 person in the last 6 months
+1 endorsement
+1 endorsement
+AWWARDS
+AWWARDS because of: Message: no such element: Unable to locate element: {"method":"css selector","selector":"span[class*="skill-item__text"]"}
+  (Session info: chrome=131.0.6778.205); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7899BFB05+28789]
+	(No symbol) [0x00007FF7899286E0]
+	(No symbol) [0x00007FF7897C592A]
+	(No symbol) [0x00007FF78981930E]
+	(No symbol) [0x00007FF7898195FC]
+	(No symbol) [0x00007FF78980C6EC]
+	(No symbol) [0x00007FF78983F47F]
+	(No symbol) [0x00007FF78980C5B6]
+	(No symbol) [0x00007FF78983F650]
+	(No symbol) [0x00007FF78985F654]
+	(No symbol) [0x00007FF78983F1E3]
+	(No symbol) [0x00007FF78980A938]
+	(No symbol) [0x00007FF78980BAA1]
+	GetHandleVerifier [0x00007FF789CF933D+3410093]
+	GetHandleVerifier [0x00007FF789D0E7DD+3497293]
+	GetHandleVerifier [0x00007FF789D02A73+3448803]
+	GetHandleVerifier [0x00007FF789A87BBB+848171]
+	(No symbol) [0x00007FF789933C3F]
+	(No symbol) [0x00007FF78992F6E4]
+	(No symbol) [0x00007FF78992F87D]
+	(No symbol) [0x00007FF78991ED49]
+	BaseThreadInitThunk [0x00007FFFD93EE8D7+23]
+	RtlUserThreadStart [0x00007FFFDAA3FBCC+44]
+
+2024-12-25 05:45:04,505 - WARNING - Could not extract data from skill element: Redux.js
+Redux.js
+AWWARDS
+AWWARDS because of: Message: no such element: Unable to locate element: {"method":"css selector","selector":"span[class*="skill-item__text"]"}
+  (Session info: chrome=131.0.6778.205); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7899BFB05+28789]
+	(No symbol) [0x00007FF7899286E0]
+	(No symbol) [0x00007FF7897C592A]
+	(No symbol) [0x00007FF78981930E]
+	(No symbol) [0x00007FF7898195FC]
+	(No symbol) [0x00007FF78980C6EC]
+	(No symbol) [0x00007FF78983F47F]
+	(No symbol) [0x00007FF78980C5B6]
+	(No symbol) [0x00007FF78983F650]
+	(No symbol) [0x00007FF78985F654]
+	(No symbol) [0x00007FF78983F1E3]
+	(No symbol) [0x00007FF78980A938]
+	(No symbol) [0x00007FF78980BAA1]
+	GetHandleVerifier [0x00007FF789CF933D+3410093]
+	GetHandleVerifier [0x00007FF789D0E7DD+3497293]
+	GetHandleVerifier [0x00007FF789D02A73+3448803]
+	GetHandleVerifier [0x00007FF789A87BBB+848171]
+	(No symbol) [0x00007FF789933C3F]
+	(No symbol) [0x00007FF78992F6E4]
+	(No symbol) [0x00007FF78992F87D]
+	(No symbol) [0x00007FF78991ED49]
+	BaseThreadInitThunk [0x00007FFFD93EE8D7+23]
+	RtlUserThreadStart [0x00007FFFDAA3FBCC+44]
+
+2024-12-25 05:45:12,178 - WARNING - Could not extract data from skill element: Application Programming Interfaces (API)
+Application Programming Interfaces (API)
+Web Developer at Snugs Official
+Web Developer at Snugs Official because of: Message: no such element: Unable to locate element: {"method":"css selector","selector":"span[class*="skill-item__text"]"}
+  (Session info: chrome=131.0.6778.205); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7899BFB05+28789]
+	(No symbol) [0x00007FF7899286E0]
+	(No symbol) [0x00007FF7897C592A]
+	(No symbol) [0x00007FF78981930E]
+	(No symbol) [0x00007FF7898195FC]
+	(No symbol) [0x00007FF78980C6EC]
+	(No symbol) [0x00007FF78983F47F]
+	(No symbol) [0x00007FF78980C5B6]
+	(No symbol) [0x00007FF78983F650]
+	(No symbol) [0x00007FF78985F654]
+	(No symbol) [0x00007FF78983F1E3]
+	(No symbol) [0x00007FF78980A938]
+	(No symbol) [0x00007FF78980BAA1]
+	GetHandleVerifier [0x00007FF789CF933D+3410093]
+	GetHandleVerifier [0x00007FF789D0E7DD+3497293]
+	GetHandleVerifier [0x00007FF789D02A73+3448803]
+	GetHandleVerifier [0x00007FF789A87BBB+848171]
+	(No symbol) [0x00007FF789933C3F]
+	(No symbol) [0x00007FF78992F6E4]
+	(No symbol) [0x00007FF78992F87D]
+	(No symbol) [0x00007FF78991ED49]
+	BaseThreadInitThunk [0x00007FFFD93EE8D7+23]
+	RtlUserThreadStart [0x00007FFFDAA3FBCC+44]
+
+2024-12-25 05:45:19,848 - WARNING - Could not extract data from skill element: Back-End Web Development
+Back-End Web Development
+Web Developer at Snugs Official
+Web Developer at Snugs Official because of: Message: no such element: Unable to locate element: {"method":"css selector","selector":"span[class*="skill-item__text"]"}
+  (Session info: chrome=131.0.6778.205); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7899BFB05+28789]
+	(No symbol) [0x00007FF7899286E0]
+	(No symbol) [0x00007FF7897C592A]
+	(No symbol) [0x00007FF78981930E]
+	(No symbol) [0x00007FF7898195FC]
+	(No symbol) [0x00007FF78980C6EC]
+	(No symbol) [0x00007FF78983F47F]
+	(No symbol) [0x00007FF78980C5B6]
+	(No symbol) [0x00007FF78983F650]
+	(No symbol) [0x00007FF78985F654]
+	(No symbol) [0x00007FF78983F1E3]
+	(No symbol) [0x00007FF78980A938]
+	(No symbol) [0x00007FF78980BAA1]
+	GetHandleVerifier [0x00007FF789CF933D+3410093]
+	GetHandleVerifier [0x00007FF789D0E7DD+3497293]
+	GetHandleVerifier [0x00007FF789D02A73+3448803]
+	GetHandleVerifier [0x00007FF789A87BBB+848171]
+	(No symbol) [0x00007FF789933C3F]
+	(No symbol) [0x00007FF78992F6E4]
+	(No symbol) [0x00007FF78992F87D]
+	(No symbol) [0x00007FF78991ED49]
+	BaseThreadInitThunk [0x00007FFFD93EE8D7+23]
+	RtlUserThreadStart [0x00007FFFDAA3FBCC+44]
+
+2024-12-25 05:45:27,519 - WARNING - Could not extract data from skill element: Database Design
+Database Design
+Web Developer at Snugs Official
+Web Developer at Snugs Official because of: Message: no such element: Unable to locate element: {"method":"css selector","selector":"span[class*="skill-item__text"]"}
+  (Session info: chrome=131.0.6778.205); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7899BFB05+28789]
+	(No symbol) [0x00007FF7899286E0]
+	(No symbol) [0x00007FF7897C592A]
+	(No symbol) [0x00007FF78981930E]
+	(No symbol) [0x00007FF7898195FC]
+	(No symbol) [0x00007FF78980C6EC]
+	(No symbol) [0x00007FF78983F47F]
+	(No symbol) [0x00007FF78980C5B6]
+	(No symbol) [0x00007FF78983F650]
+	(No symbol) [0x00007FF78985F654]
+	(No symbol) [0x00007FF78983F1E3]
+	(No symbol) [0x00007FF78980A938]
+	(No symbol) [0x00007FF78980BAA1]
+	GetHandleVerifier [0x00007FF789CF933D+3410093]
+	GetHandleVerifier [0x00007FF789D0E7DD+3497293]
+	GetHandleVerifier [0x00007FF789D02A73+3448803]
+	GetHandleVerifier [0x00007FF789A87BBB+848171]
+	(No symbol) [0x00007FF789933C3F]
+	(No symbol) [0x00007FF78992F6E4]
+	(No symbol) [0x00007FF78992F87D]
+	(No symbol) [0x00007FF78991ED49]
+	BaseThreadInitThunk [0x00007FFFD93EE8D7+23]
+	RtlUserThreadStart [0x00007FFFDAA3FBCC+44]
+
+2024-12-25 05:45:35,261 - WARNING - Could not extract data from skill element: Mongoose Web Server
+Mongoose Web Server
+Web Developer at Snugs Official
+Web Developer at Snugs Official because of: Message: no such element: Unable to locate element: {"method":"css selector","selector":"span[class*="skill-item__text"]"}
+  (Session info: chrome=131.0.6778.205); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7899BFB05+28789]
+	(No symbol) [0x00007FF7899286E0]
+	(No symbol) [0x00007FF7897C592A]
+	(No symbol) [0x00007FF78981930E]
+	(No symbol) [0x00007FF7898195FC]
+	(No symbol) [0x00007FF78980C6EC]
+	(No symbol) [0x00007FF78983F47F]
+	(No symbol) [0x00007FF78980C5B6]
+	(No symbol) [0x00007FF78983F650]
+	(No symbol) [0x00007FF78985F654]
+	(No symbol) [0x00007FF78983F1E3]
+	(No symbol) [0x00007FF78980A938]
+	(No symbol) [0x00007FF78980BAA1]
+	GetHandleVerifier [0x00007FF789CF933D+3410093]
+	GetHandleVerifier [0x00007FF789D0E7DD+3497293]
+	GetHandleVerifier [0x00007FF789D02A73+3448803]
+	GetHandleVerifier [0x00007FF789A87BBB+848171]
+	(No symbol) [0x00007FF789933C3F]
+	(No symbol) [0x00007FF78992F6E4]
+	(No symbol) [0x00007FF78992F87D]
+	(No symbol) [0x00007FF78991ED49]
+	BaseThreadInitThunk [0x00007FFFD93EE8D7+23]
+	RtlUserThreadStart [0x00007FFFDAA3FBCC+44]
+
+2024-12-25 05:45:42,961 - WARNING - Could not extract data from skill element: Project Management
+Project Management
+Volunteer at Brain Circuit
+Volunteer at Brain Circuit
+AWWARDS
+AWWARDS because of: Message: no such element: Unable to locate element: {"method":"css selector","selector":"span[class*="skill-item__text"]"}
+  (Session info: chrome=131.0.6778.205); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7899BFB05+28789]
+	(No symbol) [0x00007FF7899286E0]
+	(No symbol) [0x00007FF7897C592A]
+	(No symbol) [0x00007FF78981930E]
+	(No symbol) [0x00007FF7898195FC]
+	(No symbol) [0x00007FF78980C6EC]
+	(No symbol) [0x00007FF78983F47F]
+	(No symbol) [0x00007FF78980C5B6]
+	(No symbol) [0x00007FF78983F650]
+	(No symbol) [0x00007FF78985F654]
+	(No symbol) [0x00007FF78983F1E3]
+	(No symbol) [0x00007FF78980A938]
+	(No symbol) [0x00007FF78980BAA1]
+	GetHandleVerifier [0x00007FF789CF933D+3410093]
+	GetHandleVerifier [0x00007FF789D0E7DD+3497293]
+	GetHandleVerifier [0x00007FF789D02A73+3448803]
+	GetHandleVerifier [0x00007FF789A87BBB+848171]
+	(No symbol) [0x00007FF789933C3F]
+	(No symbol) [0x00007FF78992F6E4]
+	(No symbol) [0x00007FF78992F87D]
+	(No symbol) [0x00007FF78991ED49]
+	BaseThreadInitThunk [0x00007FFFD93EE8D7+23]
+	RtlUserThreadStart [0x00007FFFDAA3FBCC+44]
+
+2024-12-25 05:45:50,646 - WARNING - Could not extract data from skill element: MERN Stack
+MERN Stack
+2 experiences across Snugs Official and 1 other company
+2 experiences across Snugs Official and 1 other company
+AWWARDS
+AWWARDS because of: Message: no such element: Unable to locate element: {"method":"css selector","selector":"span[class*="skill-item__text"]"}
+  (Session info: chrome=131.0.6778.205); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7899BFB05+28789]
+	(No symbol) [0x00007FF7899286E0]
+	(No symbol) [0x00007FF7897C592A]
+	(No symbol) [0x00007FF78981930E]
+	(No symbol) [0x00007FF7898195FC]
+	(No symbol) [0x00007FF78980C6EC]
+	(No symbol) [0x00007FF78983F47F]
+	(No symbol) [0x00007FF78980C5B6]
+	(No symbol) [0x00007FF78983F650]
+	(No symbol) [0x00007FF78985F654]
+	(No symbol) [0x00007FF78983F1E3]
+	(No symbol) [0x00007FF78980A938]
+	(No symbol) [0x00007FF78980BAA1]
+	GetHandleVerifier [0x00007FF789CF933D+3410093]
+	GetHandleVerifier [0x00007FF789D0E7DD+3497293]
+	GetHandleVerifier [0x00007FF789D02A73+3448803]
+	GetHandleVerifier [0x00007FF789A87BBB+848171]
+	(No symbol) [0x00007FF789933C3F]
+	(No symbol) [0x00007FF78992F6E4]
+	(No symbol) [0x00007FF78992F87D]
+	(No symbol) [0x00007FF78991ED49]
+	BaseThreadInitThunk [0x00007FFFD93EE8D7+23]
+	RtlUserThreadStart [0x00007FFFDAA3FBCC+44]
+
+2024-12-25 05:45:58,390 - WARNING - Could not extract data from skill element: Object-Oriented Programming (OOP)
+Object-Oriented Programming (OOP)
+Electronic Arts - Software Engineering Job Simulation
+Electronic Arts - Software Engineering Job Simulation because of: Message: no such element: Unable to locate element: {"method":"css selector","selector":"span[class*="skill-item__text"]"}
+  (Session info: chrome=131.0.6778.205); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7899BFB05+28789]
+	(No symbol) [0x00007FF7899286E0]
+	(No symbol) [0x00007FF7897C592A]
+	(No symbol) [0x00007FF78981930E]
+	(No symbol) [0x00007FF7898195FC]
+	(No symbol) [0x00007FF78980C6EC]
+	(No symbol) [0x00007FF78983F47F]
+	(No symbol) [0x00007FF78980C5B6]
+	(No symbol) [0x00007FF78983F650]
+	(No symbol) [0x00007FF78985F654]
+	(No symbol) [0x00007FF78983F1E3]
+	(No symbol) [0x00007FF78980A938]
+	(No symbol) [0x00007FF78980BAA1]
+	GetHandleVerifier [0x00007FF789CF933D+3410093]
+	GetHandleVerifier [0x00007FF789D0E7DD+3497293]
+	GetHandleVerifier [0x00007FF789D02A73+3448803]
+	GetHandleVerifier [0x00007FF789A87BBB+848171]
+	(No symbol) [0x00007FF789933C3F]
+	(No symbol) [0x00007FF78992F6E4]
+	(No symbol) [0x00007FF78992F87D]
+	(No symbol) [0x00007FF78991ED49]
+	BaseThreadInitThunk [0x00007FFFD93EE8D7+23]
+	RtlUserThreadStart [0x00007FFFDAA3FBCC+44]
+
+2024-12-25 05:46:06,070 - WARNING - Could not extract data from skill element: Web Development
+Web Development
+Volunteer at Brain Circuit
+Volunteer at Brain Circuit because of: Message: no such element: Unable to locate element: {"method":"css selector","selector":"span[class*="skill-item__text"]"}
+  (Session info: chrome=131.0.6778.205); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7899BFB05+28789]
+	(No symbol) [0x00007FF7899286E0]
+	(No symbol) [0x00007FF7897C592A]
+	(No symbol) [0x00007FF78981930E]
+	(No symbol) [0x00007FF7898195FC]
+	(No symbol) [0x00007FF78980C6EC]
+	(No symbol) [0x00007FF78983F47F]
+	(No symbol) [0x00007FF78980C5B6]
+	(No symbol) [0x00007FF78983F650]
+	(No symbol) [0x00007FF78985F654]
+	(No symbol) [0x00007FF78983F1E3]
+	(No symbol) [0x00007FF78980A938]
+	(No symbol) [0x00007FF78980BAA1]
+	GetHandleVerifier [0x00007FF789CF933D+3410093]
+	GetHandleVerifier [0x00007FF789D0E7DD+3497293]
+	GetHandleVerifier [0x00007FF789D02A73+3448803]
+	GetHandleVerifier [0x00007FF789A87BBB+848171]
+	(No symbol) [0x00007FF789933C3F]
+	(No symbol) [0x00007FF78992F6E4]
+	(No symbol) [0x00007FF78992F87D]
+	(No symbol) [0x00007FF78991ED49]
+	BaseThreadInitThunk [0x00007FFFD93EE8D7+23]
+	RtlUserThreadStart [0x00007FFFDAA3FBCC+44]
+
+2024-12-25 05:46:13,730 - WARNING - Could not extract data from skill element: Node.js
+Node.js because of: Message: no such element: Unable to locate element: {"method":"css selector","selector":"span[class*="skill-item__text"]"}
+  (Session info: chrome=131.0.6778.205); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7899BFB05+28789]
+	(No symbol) [0x00007FF7899286E0]
+	(No symbol) [0x00007FF7897C592A]
+	(No symbol) [0x00007FF78981930E]
+	(No symbol) [0x00007FF7898195FC]
+	(No symbol) [0x00007FF78980C6EC]
+	(No symbol) [0x00007FF78983F47F]
+	(No symbol) [0x00007FF78980C5B6]
+	(No symbol) [0x00007FF78983F650]
+	(No symbol) [0x00007FF78985F654]
+	(No symbol) [0x00007FF78983F1E3]
+	(No symbol) [0x00007FF78980A938]
+	(No symbol) [0x00007FF78980BAA1]
+	GetHandleVerifier [0x00007FF789CF933D+3410093]
+	GetHandleVerifier [0x00007FF789D0E7DD+3497293]
+	GetHandleVerifier [0x00007FF789D02A73+3448803]
+	GetHandleVerifier [0x00007FF789A87BBB+848171]
+	(No symbol) [0x00007FF789933C3F]
+	(No symbol) [0x00007FF78992F6E4]
+	(No symbol) [0x00007FF78992F87D]
+	(No symbol) [0x00007FF78991ED49]
+	BaseThreadInitThunk [0x00007FFFD93EE8D7+23]
+	RtlUserThreadStart [0x00007FFFDAA3FBCC+44]
+
+2024-12-25 05:46:21,456 - WARNING - Could not extract data from skill element: Creative Problem Solving
+Creative Problem Solving because of: Message: no such element: Unable to locate element: {"method":"css selector","selector":"span[class*="skill-item__text"]"}
+  (Session info: chrome=131.0.6778.205); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7899BFB05+28789]
+	(No symbol) [0x00007FF7899286E0]
+	(No symbol) [0x00007FF7897C592A]
+	(No symbol) [0x00007FF78981930E]
+	(No symbol) [0x00007FF7898195FC]
+	(No symbol) [0x00007FF78980C6EC]
+	(No symbol) [0x00007FF78983F47F]
+	(No symbol) [0x00007FF78980C5B6]
+	(No symbol) [0x00007FF78983F650]
+	(No symbol) [0x00007FF78985F654]
+	(No symbol) [0x00007FF78983F1E3]
+	(No symbol) [0x00007FF78980A938]
+	(No symbol) [0x00007FF78980BAA1]
+	GetHandleVerifier [0x00007FF789CF933D+3410093]
+	GetHandleVerifier [0x00007FF789D0E7DD+3497293]
+	GetHandleVerifier [0x00007FF789D02A73+3448803]
+	GetHandleVerifier [0x00007FF789A87BBB+848171]
+	(No symbol) [0x00007FF789933C3F]
+	(No symbol) [0x00007FF78992F6E4]
+	(No symbol) [0x00007FF78992F87D]
+	(No symbol) [0x00007FF78991ED49]
+	BaseThreadInitThunk [0x00007FFFD93EE8D7+23]
+	RtlUserThreadStart [0x00007FFFDAA3FBCC+44]
+
+2024-12-25 05:46:41,705 - INFO - Attempting to open profile URL: www.linkedin.com/in/purviksharma/
+2024-12-25 05:46:41,705 - INFO - Adding https:// scheme to: www.linkedin.com/in/purviksharma/
+2024-12-25 05:46:41,705 - INFO - Not a LinkedIn URL, navigating to: https://www.linkedin.com/in/purviksharma/
+2024-12-25 05:46:41,705 - INFO - Navigating to: https://www.linkedin.com/in/purviksharma/
+2024-12-25 05:46:46,787 - INFO - Navigated to https://www.linkedin.com/in/purviksharma/
+2024-12-25 05:46:50,691 - INFO - Successfully scraped profile data
+2024-12-25 05:48:03,639 - INFO - Attempting to open profile URL: www.linkedin.com/in/purviksharma/
+2024-12-25 05:48:03,639 - INFO - Adding https:// scheme to: www.linkedin.com/in/purviksharma/
+2024-12-25 05:48:03,639 - INFO - Not a LinkedIn URL, navigating to: https://www.linkedin.com/in/purviksharma/
+2024-12-25 05:48:03,639 - INFO - Navigating to: https://www.linkedin.com/in/purviksharma/
+2024-12-25 05:48:08,654 - INFO - Navigated to https://www.linkedin.com/in/purviksharma/
+2024-12-25 05:48:12,076 - INFO - Successfully scraped profile data
+2024-12-25 05:50:15,600 - INFO - Attempting to open profile URL: www.linkedin.com/in/purviksharma/
+2024-12-25 05:50:15,600 - INFO - Adding https:// scheme to: www.linkedin.com/in/purviksharma/
+2024-12-25 05:50:15,600 - INFO - Not a LinkedIn URL, navigating to: https://www.linkedin.com/in/purviksharma/
+2024-12-25 05:50:15,600 - INFO - Navigating to: https://www.linkedin.com/in/purviksharma/
+2024-12-25 05:50:21,796 - INFO - Navigated to https://www.linkedin.com/in/purviksharma/
+2024-12-25 05:50:39,761 - INFO - Successfully scraped profile data
+2024-12-25 06:03:53,420 - INFO - Attempting to open profile URL: www.linkedin.com/in/ohri-akshit/
+2024-12-25 06:03:53,421 - INFO - Adding https:// scheme to: www.linkedin.com/in/ohri-akshit/
+2024-12-25 06:03:53,421 - INFO - Not a LinkedIn URL, navigating to: https://www.linkedin.com/in/ohri-akshit/
+2024-12-25 06:03:53,421 - INFO - Navigating to: https://www.linkedin.com/in/ohri-akshit/
+2024-12-25 06:03:59,124 - INFO - Navigated to https://www.linkedin.com/in/ohri-akshit/
+2024-12-25 06:04:39,638 - INFO - Successfully scraped profile data
+2024-12-25 06:05:18,534 - INFO - Attempting to open profile URL: www.linkedin.com/in/ohri-akshit/
+2024-12-25 06:05:18,534 - INFO - Adding https:// scheme to: www.linkedin.com/in/ohri-akshit/
+2024-12-25 06:05:18,534 - INFO - Not a LinkedIn URL, navigating to: https://www.linkedin.com/in/ohri-akshit/
+2024-12-25 06:05:18,534 - INFO - Navigating to: https://www.linkedin.com/in/ohri-akshit/
+2024-12-25 06:05:22,604 - INFO - Navigated to https://www.linkedin.com/in/ohri-akshit/
+2024-12-25 06:05:50,508 - INFO - Successfully scraped profile data
+2024-12-25 06:10:40,274 - INFO - Attempting to open profile URL: www.linkedin.com/in/ohri-akshit/
+2024-12-25 06:10:40,274 - INFO - Adding https:// scheme to: www.linkedin.com/in/ohri-akshit/
+2024-12-25 06:10:40,274 - INFO - Not a LinkedIn URL, navigating to: https://www.linkedin.com/in/ohri-akshit/
+2024-12-25 06:10:40,274 - INFO - Navigating to: https://www.linkedin.com/in/ohri-akshit/
+2024-12-25 06:10:44,630 - INFO - Navigated to https://www.linkedin.com/in/ohri-akshit/
+2024-12-25 06:11:25,136 - INFO - Successfully scraped profile data
+2024-12-25 06:13:32,818 - INFO - Attempting to open profile URL: www.linkedin.com/in/ohri-akshit/
+2024-12-25 06:13:32,819 - INFO - Adding https:// scheme to: www.linkedin.com/in/ohri-akshit/
+2024-12-25 06:13:32,819 - INFO - Not a LinkedIn URL, navigating to: https://www.linkedin.com/in/ohri-akshit/
+2024-12-25 06:13:32,819 - INFO - Navigating to: https://www.linkedin.com/in/ohri-akshit/
+2024-12-25 06:13:37,826 - INFO - Navigated to https://www.linkedin.com/in/ohri-akshit/
+2024-12-25 06:14:24,892 - WARNING - No Skills found because of: Message: no such element: Unable to locate element: {"method":"css selector","selector":"button[aria-label*="skills"][id*="Show-all-"]"}
+  (Session info: chrome=131.0.6778.205); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7899BFB05+28789]
+	(No symbol) [0x00007FF7899286E0]
+	(No symbol) [0x00007FF7897C592A]
+	(No symbol) [0x00007FF78981930E]
+	(No symbol) [0x00007FF7898195FC]
+	(No symbol) [0x00007FF78980C6EC]
+	(No symbol) [0x00007FF78983F47F]
+	(No symbol) [0x00007FF78980C5B6]
+	(No symbol) [0x00007FF78983F650]
+	(No symbol) [0x00007FF78985F654]
+	(No symbol) [0x00007FF78983F1E3]
+	(No symbol) [0x00007FF78980A938]
+	(No symbol) [0x00007FF78980BAA1]
+	GetHandleVerifier [0x00007FF789CF933D+3410093]
+	GetHandleVerifier [0x00007FF789D0E7DD+3497293]
+	GetHandleVerifier [0x00007FF789D02A73+3448803]
+	GetHandleVerifier [0x00007FF789A87BBB+848171]
+	(No symbol) [0x00007FF789933C3F]
+	(No symbol) [0x00007FF78992F6E4]
+	(No symbol) [0x00007FF78992F87D]
+	(No symbol) [0x00007FF78991ED49]
+	BaseThreadInitThunk [0x00007FFFD93EE8D7+23]
+	RtlUserThreadStart [0x00007FFFDAA3FBCC+44]
+
+2024-12-25 06:14:24,893 - INFO - Successfully scraped profile data
+2024-12-25 06:15:55,681 - INFO - Attempting to open profile URL: www.linkedin.com/in/ohri-akshit/
+2024-12-25 06:15:55,681 - INFO - Adding https:// scheme to: www.linkedin.com/in/ohri-akshit/
+2024-12-25 06:15:55,682 - INFO - Not a LinkedIn URL, navigating to: https://www.linkedin.com/in/ohri-akshit/
+2024-12-25 06:15:55,682 - INFO - Navigating to: https://www.linkedin.com/in/ohri-akshit/
+2024-12-25 06:16:01,154 - INFO - Navigated to https://www.linkedin.com/in/ohri-akshit/
+2024-12-25 06:16:54,317 - WARNING - No Skills found because of: Message: no such element: Unable to locate element: {"method":"css selector","selector":"button[aria-label*="skills"]"}
+  (Session info: chrome=131.0.6778.205); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7899BFB05+28789]
+	(No symbol) [0x00007FF7899286E0]
+	(No symbol) [0x00007FF7897C592A]
+	(No symbol) [0x00007FF78981930E]
+	(No symbol) [0x00007FF7898195FC]
+	(No symbol) [0x00007FF78980C6EC]
+	(No symbol) [0x00007FF78983F47F]
+	(No symbol) [0x00007FF78980C5B6]
+	(No symbol) [0x00007FF78983F650]
+	(No symbol) [0x00007FF78985F654]
+	(No symbol) [0x00007FF78983F1E3]
+	(No symbol) [0x00007FF78980A938]
+	(No symbol) [0x00007FF78980BAA1]
+	GetHandleVerifier [0x00007FF789CF933D+3410093]
+	GetHandleVerifier [0x00007FF789D0E7DD+3497293]
+	GetHandleVerifier [0x00007FF789D02A73+3448803]
+	GetHandleVerifier [0x00007FF789A87BBB+848171]
+	(No symbol) [0x00007FF789933C3F]
+	(No symbol) [0x00007FF78992F6E4]
+	(No symbol) [0x00007FF78992F87D]
+	(No symbol) [0x00007FF78991ED49]
+	BaseThreadInitThunk [0x00007FFFD93EE8D7+23]
+	RtlUserThreadStart [0x00007FFFDAA3FBCC+44]
+
+2024-12-25 06:16:54,318 - INFO - Successfully scraped profile data
+2024-12-25 06:19:34,908 - INFO - Attempting to open profile URL: www.linkedin.com/in/ohri-akshit/
+2024-12-25 06:19:34,911 - INFO - Adding https:// scheme to: www.linkedin.com/in/ohri-akshit/
+2024-12-25 06:19:34,911 - INFO - Not a LinkedIn URL, navigating to: https://www.linkedin.com/in/ohri-akshit/
+2024-12-25 06:19:34,911 - INFO - Navigating to: https://www.linkedin.com/in/ohri-akshit/
+2024-12-25 06:19:41,059 - INFO - Navigated to https://www.linkedin.com/in/ohri-akshit/
+2024-12-25 06:20:34,518 - WARNING - No Skills found because of: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//button[contains(text(), "Show all skills")]"}
+  (Session info: chrome=131.0.6778.205); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7899BFB05+28789]
+	(No symbol) [0x00007FF7899286E0]
+	(No symbol) [0x00007FF7897C592A]
+	(No symbol) [0x00007FF78981930E]
+	(No symbol) [0x00007FF7898195FC]
+	(No symbol) [0x00007FF78980C6EC]
+	(No symbol) [0x00007FF78983F47F]
+	(No symbol) [0x00007FF78980C5B6]
+	(No symbol) [0x00007FF78983F650]
+	(No symbol) [0x00007FF78985F654]
+	(No symbol) [0x00007FF78983F1E3]
+	(No symbol) [0x00007FF78980A938]
+	(No symbol) [0x00007FF78980BAA1]
+	GetHandleVerifier [0x00007FF789CF933D+3410093]
+	GetHandleVerifier [0x00007FF789D0E7DD+3497293]
+	GetHandleVerifier [0x00007FF789D02A73+3448803]
+	GetHandleVerifier [0x00007FF789A87BBB+848171]
+	(No symbol) [0x00007FF789933C3F]
+	(No symbol) [0x00007FF78992F6E4]
+	(No symbol) [0x00007FF78992F87D]
+	(No symbol) [0x00007FF78991ED49]
+	BaseThreadInitThunk [0x00007FFFD93EE8D7+23]
+	RtlUserThreadStart [0x00007FFFDAA3FBCC+44]
+
+2024-12-25 06:20:34,519 - INFO - Successfully scraped profile data
+2024-12-25 06:20:55,931 - INFO - Attempting to open profile URL: www.linkedin.com/in/ohri-akshit/
+2024-12-25 06:20:55,931 - INFO - Adding https:// scheme to: www.linkedin.com/in/ohri-akshit/
+2024-12-25 06:20:55,931 - INFO - Not a LinkedIn URL, navigating to: https://www.linkedin.com/in/ohri-akshit/
+2024-12-25 06:20:55,931 - INFO - Navigating to: https://www.linkedin.com/in/ohri-akshit/
+2024-12-25 06:21:00,773 - INFO - Navigated to https://www.linkedin.com/in/ohri-akshit/
+2024-12-25 06:21:40,362 - WARNING - No Skills found because of: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//button[contains(text(), "Show all skills")]"}
+  (Session info: chrome=131.0.6778.205); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7899BFB05+28789]
+	(No symbol) [0x00007FF7899286E0]
+	(No symbol) [0x00007FF7897C592A]
+	(No symbol) [0x00007FF78981930E]
+	(No symbol) [0x00007FF7898195FC]
+	(No symbol) [0x00007FF78980C6EC]
+	(No symbol) [0x00007FF78983F47F]
+	(No symbol) [0x00007FF78980C5B6]
+	(No symbol) [0x00007FF78983F650]
+	(No symbol) [0x00007FF78985F654]
+	(No symbol) [0x00007FF78983F1E3]
+	(No symbol) [0x00007FF78980A938]
+	(No symbol) [0x00007FF78980BAA1]
+	GetHandleVerifier [0x00007FF789CF933D+3410093]
+	GetHandleVerifier [0x00007FF789D0E7DD+3497293]
+	GetHandleVerifier [0x00007FF789D02A73+3448803]
+	GetHandleVerifier [0x00007FF789A87BBB+848171]
+	(No symbol) [0x00007FF789933C3F]
+	(No symbol) [0x00007FF78992F6E4]
+	(No symbol) [0x00007FF78992F87D]
+	(No symbol) [0x00007FF78991ED49]
+	BaseThreadInitThunk [0x00007FFFD93EE8D7+23]
+	RtlUserThreadStart [0x00007FFFDAA3FBCC+44]
+
+2024-12-25 06:21:40,363 - INFO - Successfully scraped profile data
+2024-12-25 06:25:25,158 - INFO - Attempting to open profile URL: www.linkedin.com/in/ohri-akshit/
+2024-12-25 06:25:25,159 - INFO - Adding https:// scheme to: www.linkedin.com/in/ohri-akshit/
+2024-12-25 06:25:25,159 - INFO - Not a LinkedIn URL, navigating to: https://www.linkedin.com/in/ohri-akshit/
+2024-12-25 06:25:25,159 - INFO - Navigating to: https://www.linkedin.com/in/ohri-akshit/
+2024-12-25 06:25:29,517 - INFO - Navigated to https://www.linkedin.com/in/ohri-akshit/
+2024-12-25 06:25:48,391 - WARNING - No skills link found.
+2024-12-25 06:25:48,391 - INFO - Successfully scraped profile data
+2024-12-25 06:26:54,262 - INFO - Attempting to open profile URL: www.linkedin.com/in/ohri-akshit/
+2024-12-25 06:26:54,262 - INFO - Adding https:// scheme to: www.linkedin.com/in/ohri-akshit/
+2024-12-25 06:26:54,262 - INFO - Not a LinkedIn URL, navigating to: https://www.linkedin.com/in/ohri-akshit/
+2024-12-25 06:26:54,262 - INFO - Navigating to: https://www.linkedin.com/in/ohri-akshit/
+2024-12-25 06:26:59,120 - INFO - Navigated to https://www.linkedin.com/in/ohri-akshit/
+2024-12-25 06:27:41,973 - WARNING - No skills link found.
+2024-12-25 06:27:41,973 - INFO - Successfully scraped profile data
+2024-12-25 06:30:19,849 - INFO - Attempting to open profile URL: www.linkedin.com/in/ohri-akshit/
+2024-12-25 06:30:19,849 - INFO - Adding https:// scheme to: www.linkedin.com/in/ohri-akshit/
+2024-12-25 06:30:19,849 - INFO - Not a LinkedIn URL, navigating to: https://www.linkedin.com/in/ohri-akshit/
+2024-12-25 06:30:19,849 - INFO - Navigating to: https://www.linkedin.com/in/ohri-akshit/
+2024-12-25 06:30:24,835 - INFO - Navigated to https://www.linkedin.com/in/ohri-akshit/
+2024-12-25 06:31:13,484 - WARNING - No Skills found because of: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7899BFB05+28789]
+	(No symbol) [0x00007FF7899286E0]
+	(No symbol) [0x00007FF7897C592A]
+	(No symbol) [0x00007FF78981930E]
+	(No symbol) [0x00007FF7898195FC]
+	(No symbol) [0x00007FF7898628A7]
+	(No symbol) [0x00007FF78983F47F]
+	(No symbol) [0x00007FF78985F654]
+	(No symbol) [0x00007FF78983F1E3]
+	(No symbol) [0x00007FF78980A938]
+	(No symbol) [0x00007FF78980BAA1]
+	GetHandleVerifier [0x00007FF789CF933D+3410093]
+	GetHandleVerifier [0x00007FF789D0E7DD+3497293]
+	GetHandleVerifier [0x00007FF789D02A73+3448803]
+	GetHandleVerifier [0x00007FF789A87BBB+848171]
+	(No symbol) [0x00007FF789933C3F]
+	(No symbol) [0x00007FF78992F6E4]
+	(No symbol) [0x00007FF78992F87D]
+	(No symbol) [0x00007FF78991ED49]
+	BaseThreadInitThunk [0x00007FFFD93EE8D7+23]
+	RtlUserThreadStart [0x00007FFFDAA3FBCC+44]
+
+2024-12-25 06:31:13,486 - INFO - Successfully scraped profile data
+2024-12-25 06:41:53,847 - INFO - Attempting to open profile URL: www.linkedin.com/in/ohri-akshit/
+2024-12-25 06:41:53,849 - INFO - Adding https:// scheme to: www.linkedin.com/in/ohri-akshit/
+2024-12-25 06:41:53,849 - INFO - Not a LinkedIn URL, navigating to: https://www.linkedin.com/in/ohri-akshit/
+2024-12-25 06:41:53,849 - INFO - Navigating to: https://www.linkedin.com/in/ohri-akshit/
+2024-12-25 06:41:58,782 - INFO - Navigated to https://www.linkedin.com/in/ohri-akshit/
+2024-12-25 06:42:24,678 - INFO - Successfully scraped profile data
+2024-12-25 06:52:37,741 - INFO - Attempting to open profile URL: www.linkedin.com/in/ohri-akshit/
+2024-12-25 06:52:37,741 - INFO - Adding https:// scheme to: www.linkedin.com/in/ohri-akshit/
+2024-12-25 06:52:37,741 - INFO - Not a LinkedIn URL, navigating to: https://www.linkedin.com/in/ohri-akshit/
+2024-12-25 06:52:37,741 - INFO - Navigating to: https://www.linkedin.com/in/ohri-akshit/
+2024-12-25 06:52:48,000 - INFO - Navigated to https://www.linkedin.com/in/ohri-akshit/
+2024-12-25 06:53:29,117 - INFO - Successfully scraped profile data
+2024-12-25 06:58:59,720 - INFO - Attempting to open profile URL: www.linkedin.com/in/ohri-akshit/
+2024-12-25 06:58:59,720 - INFO - Adding https:// scheme to: www.linkedin.com/in/ohri-akshit/
+2024-12-25 06:58:59,720 - INFO - Not a LinkedIn URL, navigating to: https://www.linkedin.com/in/ohri-akshit/
+2024-12-25 06:58:59,720 - INFO - Navigating to: https://www.linkedin.com/in/ohri-akshit/
+2024-12-25 07:00:56,236 - ERROR - Error opening profile URL: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-12-25 07:02:50,722 - INFO - Attempting to open profile URL: www.linkedin.com/in/ohri-akshit/
+2024-12-25 07:02:50,722 - INFO - Adding https:// scheme to: www.linkedin.com/in/ohri-akshit/
+2024-12-25 07:02:50,722 - INFO - Not a LinkedIn URL, navigating to: https://www.linkedin.com/in/ohri-akshit/
+2024-12-25 07:02:50,722 - INFO - Navigating to: https://www.linkedin.com/in/ohri-akshit/
+2024-12-25 07:02:55,763 - INFO - Navigated to https://www.linkedin.com/in/ohri-akshit/
+2024-12-25 07:03:27,544 - INFO - Successfully scraped profile data
+2024-12-25 07:04:30,054 - INFO - Attempting to open profile URL: www.linkedin.com/in/ohri-akshit/
+2024-12-25 07:04:30,054 - INFO - Adding https:// scheme to: www.linkedin.com/in/ohri-akshit/
+2024-12-25 07:04:30,054 - INFO - Not a LinkedIn URL, navigating to: https://www.linkedin.com/in/ohri-akshit/
+2024-12-25 07:04:30,054 - INFO - Navigating to: https://www.linkedin.com/in/ohri-akshit/
+2024-12-25 07:04:31,796 - INFO - Navigated to https://www.linkedin.com/in/ohri-akshit/
+2024-12-25 07:05:10,354 - INFO - Successfully scraped profile data
+2024-12-25 07:06:09,430 - INFO - Attempting to open profile URL: www.linkedin.com/in/ohri-akshit/
+2024-12-25 07:06:09,431 - INFO - Adding https:// scheme to: www.linkedin.com/in/ohri-akshit/
+2024-12-25 07:06:09,431 - INFO - Not a LinkedIn URL, navigating to: https://www.linkedin.com/in/ohri-akshit/
+2024-12-25 07:06:09,431 - INFO - Navigating to: https://www.linkedin.com/in/ohri-akshit/
+2024-12-25 07:06:14,076 - INFO - Navigated to https://www.linkedin.com/in/ohri-akshit/
+2024-12-25 07:06:44,370 - INFO - Successfully scraped profile data
+2024-12-25 07:07:30,183 - INFO - Attempting to open profile URL: www.linkedin.com/in/ohri-akshit/
+2024-12-25 07:07:30,183 - INFO - Adding https:// scheme to: www.linkedin.com/in/ohri-akshit/
+2024-12-25 07:07:30,183 - INFO - Not a LinkedIn URL, navigating to: https://www.linkedin.com/in/ohri-akshit/
+2024-12-25 07:07:30,183 - INFO - Navigating to: https://www.linkedin.com/in/ohri-akshit/
+2024-12-25 07:07:34,830 - INFO - Navigated to https://www.linkedin.com/in/ohri-akshit/
+2024-12-25 07:08:00,169 - INFO - Successfully scraped profile data
