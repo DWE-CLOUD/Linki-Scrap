@@ -8,6 +8,7 @@ An advanced LinkedIn profile scraper that bypasses authentication walls and dete
 
 ## IMPORTANT
 
+- Make a linkedin acc with 2Fa on [ authenticator only ]
 - While Entering the link it should be like this : www.linkedin.com/in/ohri-akshit/
 - Like it should have : www.linkedin.com/{your_country_code}/{your_profile_id}/
 - The / in end is imp
