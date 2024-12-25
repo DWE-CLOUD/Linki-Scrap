@@ -27,6 +27,15 @@ An advanced LinkedIn profile scraper that bypasses authentication walls and dete
 
 This tool is in BETA. Some profiles might experience scraping issues which will be addressed in future updates.
 
+## 🔧 Configuration
+
+1. Edit the `.env` file:
+```
+  username: your_email
+  password: your_password
+  ```
+
+
 ## 🛠️ Installation
 
 ### Docker (Recommended)
@@ -47,14 +56,6 @@ git clone https://github.com/DWE-CLOUD/Linki-scrap
 pip install -r requirements.txt
 ```
 
-## 🔧 Configuration
-
-1. Edit the `.env` file:
-```yaml
-linkedin:
-  username: your_email
-  password: your_password
-  ```
 
 ## 🚀 Usage
 
